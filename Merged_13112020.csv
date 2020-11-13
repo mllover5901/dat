@@ -1,0 +1,80 @@
+gender,Count,Employee_Tot,Sector,Industry,Name,Revenue
+F,66.66666667,229,Software,Technology,MARIN SOFTWARE INC,49035770
+F,60,208000,Banking,Financial,BANK OF AMERICA CORP,1.14E+11
+F,57.14285714,1289,Software,Technology,QUALYS INC,321605500
+F,55.55555556,56000,Computers/Co,Electronics,HP INC,59752000000
+F,45.45454545,71000,Pharmaceutic,Healthcare,Merck Co Inc,46585940000
+F,45.45454545,40000,Semiconducto,Electronics,MICRON TECHNOLOGY INC,33316800000
+F,45.45454545,10371,Software,Technology,ServiceNow Inc,3460387860
+F,44.44444444,2045,Software,Technology,Slack Technologies Inc,630419999.9
+F,44.44444444,2905,Software,Technology,TWILIO INC,1134460600
+F,42.85714286,1684,Computers/Co,Electronics,FITBIT INC,1434784840
+F,42.85714286,70600,Life Insuran,Financial,Anthem Inc,1.04E+11
+F,41.66666667,164000,Automobiles,Automotive,General Motors Co,1.37E+11
+F,40,5800,Software,Technology,SPLUNK INC,3267952000
+F,40,200000,Banking,Financial,CITIGROUP INC,1.04E+11
+F,40,42500,Wired Teleco,Telecommunications,CENTURYLINK INC,22400900000
+F,40,56600,Healthcare P,Healthcare,CENTENE CORP,74655400000
+F,40,3570,Software,Technology,Zendesk Inc,814174200
+F,38.46153846,163000,Software,Technology,Microsoft,1.43E+11
+F,37.5,80000,Drug Retail,Healthcare,MCKESSON CORP,2.31E+11
+F,37.5,44942,Internet/Onl,Technology,Facebook Inc,70693766000
+F,37.5,2020,Internet/Onl,Technology,Zscaler Inc,467367400
+F,35.29411765,35000,Food & Beverage,Consumer Goods,GENERAL MILLS INC,14519400000
+F,33.33333333,3368,Software,Technology,PROOFPOINT INC,888175280
+F,33.33333333,42000,Computers/Co,Technology,Seagate Technology plc,10508820000
+F,33.33333333,948,Software,Technology,EVERBRIDGE INC,200881200
+F,33.33333333,13775,Semiconductors,Technology,NVIDIA CORP,12155473250
+F,33.33333333,2248,Internet/Online,Technology,Okta Inc,586076080
+F,33.33333333,135000,Wireless Tel,Telecommunications,VERIZON COMMUNICATIONS INC,1.32E+11
+F,33.33333333,290000,Drug Retail,Healthcare,CVS HEALTH Corp,2.57E+11
+F,33.33333333,190000,Broadcasting,Media/Entertainment,COMCAST CORP,1.09E+11
+F,33.33333333,7724,Internet/Onl,Technology,AKAMAI TECHNOLOGIES INC,2893642120
+F,33.33333333,48000,Drug Retail,Healthcare,CARDINAL HEALTH INC,1.53E+11
+F,30.76923077,135000,Software,Technology,Oracle Corp,39042000000
+F,30.76923077,246000,Wireless Tel,Telecommunications,AT T INC,1.81E+11
+F,30,190000,Automobiles,Automotive,FORD MOTOR CO,1.56E+11
+F,28.57142857,147000,Computers/Co,Electronics,Apple Inc,2.74E+11
+F,28.57142857,118899,Internet/Onl,Technology,Alphabet Inc,97266515.94
+F,28.57142857,1343,Software,Technology,Elastic N V,372306460
+F,28.57142857,267000,Food & Beverage,Consumer Goods,PEPSICO INC,64659390000
+F,28.57142857,31000,Software,Technology,VMWARE INC,12820050000
+F,25,1249,Internet/Onl,Technology,ZUORA INC,314860410
+F,25,1588,Internet/Online,Technology,SMARTSHEET INC,358602160
+F,25,325000,Life Insuran,Financial,UNITEDHEALTH GROUP INC,2.42E+11
+F,25,23990,Broadcasting,Media/Entertainment,ViacomCBS Inc,27804410000
+F,25,22634,Software,Technology,ADOBE INC,11131401200
+F,25,16400,Semiconductors,Electronics,ANALOG DEVICES INC,5991084000
+F,25,1693,Software,Technology,Coupa Software Inc,529164080
+F,25,165000,Software,Technology,Dell Technologies Inc,1.03E+11
+F,23.07692308,61600,Computers/Co,Electronics,Hewlett Packard Enterprise Co,31445568000
+F,22.22222222,10600,Software,Technology,INTUIT INC,7659348000
+F,20,6584,Networking,Technology,PLANTRONICS INC,1692746400
+F,20,256981,Banking,Financial,JPMORGAN CHASE CO,1.50E+11
+F,20,2723,Software,Technology,Cloudera Inc,793019290
+F,20,49000,Software,Technology,SALESFORCE COM INC,18595010000
+F,20,37000,Food & Beverage,Consumer Goods,Kraft Heinz Co,24976850000
+F,18.18181818,41000,Semiconductors,Technology,QUALCOMM INC DE,23531130000
+F,16.66666667,44000,Consumer Fin,Financial,FISERV INC,10186880000
+F,16.66666667,1403,Internet/Onl,Technology,Datadog Inc,362780000.1
+F,16.66666667,630,Internet/Onl,Technology,Fastly Inc,200459700
+F,14.28571429,277,Emerging Tec,Technology,Veritone Inc,23051940
+F,14.28571429,2532,Software,Technology,Zoom Video Communications Inc,622659999.9
+F,14.28571429,2131,Software,Technology,NEW RELIC INC,599514230
+F,12.5,110800,Semiconducto,Electronics,INTEL CORP,71964600000
+F,12.5,77500,Networking,Technology,CISCO SYSTEMS INC,53082075000
+F,12.5,1055,Software,Technology,BLACKLINE INC,288975050
+F,11.76470588,383800,Computer/Co,Engineering,INTERNATIONAL BUSINESS MACHINES CORP,77147638000
+F,11.11111111,11400,Semiconducto,Electronics,ADVANCED MICRO DEVICES INC,6731016000
+F,7.692307692,1000,Software,Technology,Sailpoint Technologies Holdings Inc,247020000
+F,7.142857143,88300,Pharmaceutic,Healthcare,PFIZER INC,51749981000
+F,6.666666667,95100,Broadcasting,Media/Entertainment,CHARTER COMMUNICATIONS INC,45764022000
+F,22.22,48016,Automobiles,Automotive,"Tesla, Inc.",24578000000
+F,44.44,34300,Personal Care Products/Appliances,Consumer Goods,COLGATE PALMOLIVE CO,15690000000
+F,20,9000,Broadcasting,Media/Entertainment,Fox Corp,12300000000
+F,0,"28,500",Wireless & Wireline Communication,Telecommunications,SPRINT Corp,36300000000
+F,60,53000,Wireless & Wireline Communication,Telecommunications,T-Mobile US,44998000000
+F,22.22,"74,412",Mobile Machinery,Automotive,DEERE & CO,39260000000
+F,0,3501,Software,Technology,VEEVA SYSTEMS INC,1100000000
+F,0,"4,000",Software,Technology,CVENT INC,640000000
+F,0,29768,Semiconductors,Technology,TEXAS INSTRUMENTS INC,14380000000
