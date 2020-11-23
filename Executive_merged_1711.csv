@@ -1,0 +1,383 @@
+Company,First,Count_exec,Full,First,Last,gender,Tag,Comp1
+INTUIT INC,INTUIT,66.66666667,Brad D Smith,Brad,Smith,M,PERSON,INTUIT INC
+INTUIT INC,INTUIT,66.66666667,Michelle M Clatterbuck,Michelle,Clatterbuck,F,PERSON,INTUIT INC
+INTUIT INC,INTUIT,66.66666667,Laura A Fennell,Laura,Fennell,F,PERSON,INTUIT INC
+ViacomCBS Inc,ViacomCBS,57.14285714,Robert M Bakish,Robert,Bakish,M,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Christina Spade,Christina,Spade,F,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Christa A DAlimonte,Christa,Dalimonte,F,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Richard M Jones,Richard,Jones,M,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Nancy Phillips,Nancy,Phillips,F,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Joseph R Ianniello,Joseph,Ianniello,M,PERSON,ViacomCBS Inc.
+ViacomCBS Inc,ViacomCBS,57.14285714,Laura Franco,Laura,Franco,F,PERSON,ViacomCBS Inc.
+SMARTSHEET INC,SMARTSHEET,50,Mark P Mader,Mark,Mader,M,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Jennifer E Ceran,Jennifer,Ceran,F,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Michael Arntz,Michael,Arntz,M,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Anna Griffin,Anna,Griffin,F,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Mark P MaderCashNA,Mark,Madercashna,M,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Jennifer E CeranCashNA,Jennifer,Cerancashna,F,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Michael ArntzCashNA,Michael,Arntzcashna,M,PERSON,SMARTSHEET INC
+SMARTSHEET INC,SMARTSHEET,50,Anna GriffinCashNA,Anna,Griffincashna,F,PERSON,SMARTSHEET INC
+ZUORA INC,ZUORA,50,Tien TzuoNA,Tien,Tzuona,F,PERSON,ZUORA INC
+ZUORA INC,ZUORA,50,Tyler R SloatNA,Tyler,Sloatna,M,PERSON,ZUORA INC
+ZUORA INC,ZUORA,50,Jennifer W PileggiNA,Jennifer,Pileggina,F,PERSON,ZUORA INC
+ZUORA INC,ZUORA,50,Marc DiouaneNA,Marc,Diouanena,M,PERSON,ZUORA INC
+Anthem Inc,"Anthem,",50,Gail K Boudreaux,Gail,Boudreaux,F,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,John E Gallina,John,Gallina,M,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Peter D Haytaian,Peter,Haytaian,M,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Gloria M McCarthy,Gloria,Mccarthy,F,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Felicia F Norwood,Felicia,Norwood,F,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Leah Stark,Leah,Stark,F,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Thomas C Zielinski,Thomas,Zielinski,M,PERSON,"Anthem, Inc."
+Anthem Inc,"Anthem,",50,Ronald W Penczek,Ronald,Penczek,M,PERSON,"Anthem, Inc."
+BLACKLINE INC,"BLACKLINE,",50,Therese Tucker,Therese,Tucker,F,PERSON,"BLACKLINE, INC."
+BLACKLINE INC,"BLACKLINE,",50,Mark Partin,Mark,Partin,M,PERSON,"BLACKLINE, INC."
+BLACKLINE INC,"BLACKLINE,",50,Marc Huffman,Marc,Huffman,M,PERSON,"BLACKLINE, INC."
+BLACKLINE INC,"BLACKLINE,",50,Karole MorganPrager,Karole,Morganprager,F,PERSON,"BLACKLINE, INC."
+Facebook Inc,Facebook,40,Mark Zuckerberg,Mark,Zuckerberg,M,PERSON,Facebook Inc
+Facebook Inc,Facebook,40,Sheryl K Sandberg,Sheryl,Sandberg,F,PERSON,Facebook Inc
+Facebook Inc,Facebook,40,David M Wehner,David,Wehner,M,PERSON,Facebook Inc
+Facebook Inc,Facebook,40,Mike Schroepfer,Mike,Schroepfer,M,PERSON,Facebook Inc
+Facebook Inc,Facebook,40,Jennifer G Newstead,Jennifer,Newstead,F,PERSON,Facebook Inc
+NVIDIA CORP,NVIDIA,40,JenHsun Huang,Jenhsun,Huang,M,PERSON,NVIDIA CORP
+NVIDIA CORP,NVIDIA,40,Colette M Kress,Colette,Kress,F,PERSON,NVIDIA CORP
+NVIDIA CORP,NVIDIA,40,Ajay K Puri,Ajay,Puri,M,PERSON,NVIDIA CORP
+NVIDIA CORP,NVIDIA,40,Debora Shoquist,Debora,Shoquist,F,PERSON,NVIDIA CORP
+NVIDIA CORP,NVIDIA,40,Timothy S Teter,Timothy,Teter,M,PERSON,NVIDIA CORP
+CISCO SYSTEMS INC,CISCO,33.33333333,Charles H Robbins,Charles,Robbins,M,PERSON,"CISCO SYSTEMS, INC."
+CISCO SYSTEMS INC,CISCO,33.33333333,Kelly A Kramer,Kelly,Kramer,M,PERSON,"CISCO SYSTEMS, INC."
+CISCO SYSTEMS INC,CISCO,33.33333333,Gerri Elliott,Gerri,Elliott,F,PERSON,"CISCO SYSTEMS, INC."
+CISCO SYSTEMS INC,CISCO,33.33333333,Maria Martinez,Maria,Martinez,F,PERSON,"CISCO SYSTEMS, INC."
+CISCO SYSTEMS INC,CISCO,33.33333333,Irving Tan,Irving,Tan,M,PERSON,"CISCO SYSTEMS, INC."
+CISCO SYSTEMS INC,CISCO,33.33333333,David Goeckeler,David,Goeckeler,M,PERSON,"CISCO SYSTEMS, INC."
+Elastic N V,Elastic,33.33333333,Shay Banon,Shay,Banon,F,PERSON,Elastic N.V.
+Elastic N V,Elastic,33.33333333,Aaron Katz,Aaron,Katz,M,PERSON,Elastic N.V.
+Elastic N V,Elastic,33.33333333,Kevin Kluge,Kevin,Kluge,M,PERSON,Elastic N.V.
+Fox Corp,Fox,33.33333333,Lachlan K  Murdoch,Lachlan,Murdoch,F,PERSON,Fox Corp
+Fox Corp,Fox,33.33333333,John P  Nallen,John,Nallen,M,PERSON,Fox Corp
+Fox Corp,Fox,33.33333333,Steven  Tomsic,Steven,Tomsic,M,PERSON,Fox Corp
+COMCAST CORP,COMCAST,33.33333333,Kenneth J Bacon,Kenneth,Bacon,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Madeline S Bell,Madeline,Bell,F,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Naomi M Bergman,Naomi,Bergman,F,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Sheldon M Bonovitz,Sheldon,Bonovitz,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Edward D Breen,Edward,Breen,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Stephen B Burke,Stephen,Burke,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Michael J Cavanagh,Michael,Cavanagh,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,David L Cohen,David,Cohen,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Gerald L Hassell,Gerald,Hassell,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Jeffrey A Honickman,Jeffrey,Honickman,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Maritza G Montiel,Maritza,Montiel,F,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Asuka Nakahara,Asuka,Nakahara,F,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,David C Novak,David,Novak,M,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,Brian L Roberts,Brian,Roberts,F,PERSON,COMCAST CORP
+COMCAST CORP,COMCAST,33.33333333,David N Watson,David,Watson,M,PERSON,COMCAST CORP
+CENTURYLINK INC,"CENTURYLINK,",25,Jeffrey K Storey,Jeffrey,Storey,M,PERSON,"CENTURYLINK, INC"
+CENTURYLINK INC,"CENTURYLINK,",25,Stacey W Goff,Stacey,Goff,F,PERSON,"CENTURYLINK, INC"
+CENTURYLINK INC,"CENTURYLINK,",25,Scott A Trezise,Scott,Trezise,M,PERSON,"CENTURYLINK, INC"
+CENTURYLINK INC,"CENTURYLINK,",25,Shaun C Andrews,Shaun,Andrews,M,PERSON,"CENTURYLINK, INC"
+COLGATE PALMOLIVE CO,COLGATE,25,Noel R Wallace,Noel,Wallace,M,PERSON,COLGATE PALMOLIVE CO
+COLGATE PALMOLIVE CO,COLGATE,25,Henning I Jakobsen,Henning,Jakobsen,M,PERSON,COLGATE PALMOLIVE CO
+COLGATE PALMOLIVE CO,COLGATE,25,Jennifer M Daniels,Jennifer,Daniels,F,PERSON,COLGATE PALMOLIVE CO
+COLGATE PALMOLIVE CO,COLGATE,25,Panagiotis Tsourapas,Panagiotis,Tsourapas,M,PERSON,COLGATE PALMOLIVE CO
+FISERV INC,FISERV,25,Jeffery W Yabuki,Jeffery,Yabuki,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Frank J Bisignano,Frank,Bisignano,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Robert W Hau,Robert,Hau,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Devin B McGranahan,Devin,Mcgranahan,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Byron C Vielehr,Byron,Vielehr,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Alison Davis,Alison,Davis,F,PERSON,FISERV INC
+FISERV INC,FISERV,25,Harry F DiSimone,Harry,Disimone,F,PERSON,FISERV INC
+FISERV INC,FISERV,25,Dennis F Lynch,Dennis,Lynch,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Heidi G Miller,Heidi,Miller,F,PERSON,FISERV INC
+FISERV INC,FISERV,25,Scott C Nuttall,Scott,Nuttall,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Denis J OLeary,Denis,Oleary,M,PERSON,FISERV INC
+FISERV INC,FISERV,25,Doyle R Simons,Doyle,Simons,M,PERSON,FISERV INC
+BANK OF AMERICA CORP,BANK,25,Brian T Moynihan,Brian,Moynihan,F,PERSON,BANK OF AMERICA CORP
+BANK OF AMERICA CORP,BANK,25,Paul M Donofrio,Paul,Donofrio,M,PERSON,BANK OF AMERICA CORP
+BANK OF AMERICA CORP,BANK,25,Geoffrey S Greener,Geoffrey,Greener,M,PERSON,BANK OF AMERICA CORP
+BANK OF AMERICA CORP,BANK,25,Thomas K Montag,Thomas,Montag,M,PERSON,BANK OF AMERICA CORP
+ANALOG DEVICES INC,ANALOG,25,SharesAcquirablewithin Days,Sharesacquirablewithin,Days,F,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,BlackRock Inc,Blackrock,Inc,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,James A Champy,James,Champy,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Anantha P Chandrakasan,Anantha,Chandrakasan,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Martin Cotter,Martin,Cotter,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Bruce R Evans,Bruce,Evans,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Edward H Frank,Edward,Frank,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Karen M Golz,Karen,Golz,F,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Mark M Little,Mark,Little,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Neil Novich,Neil,Novich,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Steve Pietkiewicz,Steve,Pietkiewicz,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Vincent Roche,Vincent,Roche,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Kenton J Sicchitano,Kenton,Sicchitano,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Ray Stata,Ray,Stata,M,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Lisa Su,Lisa,Su,F,PERSON,ANALOG DEVICES INC
+ANALOG DEVICES INC,ANALOG,25,Susie Wee,Susie,Wee,F,PERSON,ANALOG DEVICES INC
+QUALYS INC,"QUALYS,",25,Philippe F Courtot,Philippe,Courtot,M,PERSON,"QUALYS, INC"
+QUALYS INC,"QUALYS,",25,Melissa B Fisher,Melissa,Fisher,F,PERSON,"QUALYS, INC"
+QUALYS INC,"QUALYS,",25,Bruce K Posey,Bruce,Posey,M,PERSON,"QUALYS, INC"
+QUALYS INC,"QUALYS,",25,Grant  Date,Grant,Date,M,PERSON,"QUALYS, INC"
+Alphabet Inc,Alphabet,25,Sergey Brin,Sergey,Brin,M,PERSON,Alphabet Inc.
+Alphabet Inc,Alphabet,25,Sundar Pichai,Sundar,Pichai,M,PERSON,Alphabet Inc.
+Alphabet Inc,Alphabet,25,Ruth M Porat,Ruth,Porat,F,PERSON,Alphabet Inc.
+Alphabet Inc,Alphabet,25,David C Drummond,David,Drummond,M,PERSON,Alphabet Inc.
+TWILIO INC,TWILIO,20,Jeff Lawson,Jeff,Lawson,M,PERSON,TWILIO INC
+TWILIO INC,TWILIO,20,George Hu,George,Hu,M,PERSON,TWILIO INC
+TWILIO INC,TWILIO,20,Chee Chew,Chee,Chew,M,PERSON,TWILIO INC
+TWILIO INC,TWILIO,20,Karyn Smith,Karyn,Smith,F,PERSON,TWILIO INC
+TWILIO INC,TWILIO,20,Grant  Date,Grant,Date,M,PERSON,TWILIO INC
+SALESFORCE COM INC,"SALESFORCE.COM,",20,BlackRock Inc,Blackrock,Inc,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Marc Benioff,Marc,Benioff,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Keith Block,Keith,Block,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Craig Conway,Craig,Conway,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Parker Harris,Parker,Harris,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Alan Hassenfeld,Alan,Hassenfeld,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Mark Hawkins,Mark,Hawkins,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Neelie Kroes,Neelie,Kroes,F,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Sanford R Robertson,Sanford,Robertson,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,John V Roos,John,Roos,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Srinivas Tallapragada,Srinivas,Tallapragada,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Bret Taylor,Bret,Taylor,F,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Robin Washington,Robin,Washington,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Maynard Webb,Maynard,Webb,M,PERSON,"SALESFORCE.COM, INC."
+SALESFORCE COM INC,"SALESFORCE.COM,",20,Susan Wojcicki,Susan,Wojcicki,F,PERSON,"SALESFORCE.COM, INC."
+PROOFPOINT INC,PROOFPOINT,20,Gary Steele,Gary,Steele,M,PERSON,PROOFPOINT INC
+PROOFPOINT INC,PROOFPOINT,20,Paul Auvil,Paul,Auvil,M,PERSON,PROOFPOINT INC
+PROOFPOINT INC,PROOFPOINT,20,David Knight,David,Knight,M,PERSON,PROOFPOINT INC
+PROOFPOINT INC,PROOFPOINT,20,Blake Salle,Blake,Salle,M,PERSON,PROOFPOINT INC
+PROOFPOINT INC,PROOFPOINT,20,Bhagwat Swaroop,Bhagwat,Swaroop,F,PERSON,PROOFPOINT INC
+Seagate Technology plc,Seagate,20,William D Mosley,William,Mosley,M,PERSON,Seagate Technology plc
+Seagate Technology plc,Seagate,20,Gianluca Romano,Gianluca,Romano,M,PERSON,Seagate Technology plc
+Seagate Technology plc,Seagate,20,Jeffrey D Nygaard,Jeffrey,Nygaard,M,PERSON,Seagate Technology plc
+Seagate Technology plc,Seagate,20,Katherine E Schuelke,Katherine,Schuelke,F,PERSON,Seagate Technology plc
+Seagate Technology plc,Seagate,20,James J Murphy,James,Murphy,M,PERSON,Seagate Technology plc
+Oracle Corp,Oracle,20,Lawrence J Ellison,Lawrence,Ellison,M,PERSON,Oracle Corp
+Oracle Corp,Oracle,20,Safra A Catz,Safra,Catz,F,PERSON,Oracle Corp
+Oracle Corp,Oracle,20,Mark V Hurd,Mark,Hurd,M,PERSON,Oracle Corp
+Oracle Corp,Oracle,20,Dorian E Daley,Dorian,Daley,M,PERSON,Oracle Corp
+Oracle Corp,Oracle,20,Jeffrey O Henley,Jeffrey,Henley,M,PERSON,Oracle Corp
+NEW RELIC INC,NEW,20,Lewis Cirne,Lewis,Cirne,M,PERSON,"NEW RELIC, INC."
+NEW RELIC INC,NEW,20,Michael Christenson,Michael,Christenson,M,PERSON,"NEW RELIC, INC."
+NEW RELIC INC,NEW,20,Mark Sachleben,Mark,Sachleben,M,PERSON,"NEW RELIC, INC."
+NEW RELIC INC,NEW,20,William Staples,William,Staples,M,PERSON,"NEW RELIC, INC."
+NEW RELIC INC,NEW,20,Erica Schultz,Erica,Schultz,F,PERSON,"NEW RELIC, INC."
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,BlackRock Inc,Blackrock,Inc,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Michelle H Browdy,Michelle,Browdy,F,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Thomas Buberl,Thomas,Buberl,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Michael L Eskew,Michael,Eskew,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,David N Farr,David,Farr,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Alex Gorsky,Alex,Gorsky,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Michelle J Howard,Michelle,Howard,F,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,James J Kavanaugh,James,Kavanaugh,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Andrew N Liveris,Andrew,Liveris,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Martha E Pollack,Martha,Pollack,F,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Martin J Schroeter,Martin,Schroeter,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Joseph R Swedish,Joseph,Swedish,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Sidney Taurel,Sidney,Taurel,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Peter R Voser,Peter,Voser,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL,20,Frederick H Waddell,Frederick,Waddell,M,PERSON,INTERNATIONAL BUSINESS MACHINES CORP
+CENTENE CORP,CENTENE,20,BlackRock Inc,Blackrock,Inc,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Michael F Neidorff,Michael,Neidorff,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Robert K Ditmore,Robert,Ditmore,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Kenneth Burdick,Kenneth,Burdick,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,John R Roberts,John,Roberts,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Tommy G Thompson,Tommy,Thompson,F,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Jesse N Hunter,Jesse,Hunter,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Frederick H Eppinger,Frederick,Eppinger,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,David L Steward,David,Steward,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Jeffrey A Schwaneke,Jeffrey,Schwaneke,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Richard A Gephardt,Richard,Gephardt,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,William Trubeck,William,Trubeck,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Mark Brooks,Mark,Brooks,M,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Jessica L Blume,Jessica,Blume,F,PERSON,CENTENE CORP
+CENTENE CORP,CENTENE,20,Lori J Robinson,Lori,Robinson,F,PERSON,CENTENE CORP
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Lisa T Su,Lisa,Su,F,PERSON,ADVANCED MICRO DEVICES INC
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Devinder Kumar,Devinder,Kumar,M,PERSON,ADVANCED MICRO DEVICES INC
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Rick Bergman,Rick,Bergman,M,PERSON,ADVANCED MICRO DEVICES INC
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Darren Grasby,Darren,Grasby,M,PERSON,ADVANCED MICRO DEVICES INC
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Mark D Papermaster,Mark,Papermaster,M,PERSON,ADVANCED MICRO DEVICES INC
+ADVANCED MICRO DEVICES INC,ADVANCED,16.66666667,Sandeep Chennakeshu,Sandeep,Chennakeshu,M,PERSON,ADVANCED MICRO DEVICES INC
+Zendesk Inc,"Zendesk,",16.66666667,Grant Date,Grant,Date,M,PERSON,"Zendesk, Inc."
+Zendesk Inc,"Zendesk,",16.66666667,Mikkel Svane,Mikkel,Svane,M,PERSON,"Zendesk, Inc."
+Zendesk Inc,"Zendesk,",16.66666667,Elena Gomez,Elena,Gomez,F,PERSON,"Zendesk, Inc."
+Zendesk Inc,"Zendesk,",16.66666667,Adrian McDermott,Adrian,Mcdermott,M,PERSON,"Zendesk, Inc."
+Zendesk Inc,"Zendesk,",16.66666667,John T Keiser,John,Keiser,M,PERSON,"Zendesk, Inc."
+Zendesk Inc,"Zendesk,",16.66666667,Norman Gennaro,Norman,Gennaro,M,PERSON,"Zendesk, Inc."
+General Motors Co,General,16.66666667,Mark L ReussPresident,Mark,Reusspresident,M,PERSON,General Motors Co
+General Motors Co,General,16.66666667,Grant Date,Grant,Date,M,PERSON,General Motors Co
+General Motors Co,General,16.66666667,Mary T Barra,Mary,Barra,F,PERSON,General Motors Co
+General Motors Co,General,16.66666667,Mark L Reuss,Mark,Reuss,M,PERSON,General Motors Co
+General Motors Co,General,16.66666667,Craig B Glidden,Craig,Glidden,M,PERSON,General Motors Co
+General Motors Co,General,16.66666667,Alan S Batey,Alan,Batey,M,PERSON,General Motors Co
+PLANTRONICS INC,PLANTRONICS,14.28571429,Robert Hagerty,Robert,Hagerty,M,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Joe Burton,Joe,Burton,M,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Charles Boynton,Charles,Boynton,M,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Mary Huser,Mary,Huser,F,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Tom Puorro,Tom,Puorro,M,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Carl Wiese,Carl,Wiese,M,PERSON,PLANTRONICS INC
+PLANTRONICS INC,PLANTRONICS,14.28571429,Jeff Loebbaka,Jeff,Loebbaka,M,PERSON,PLANTRONICS INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,David S Wichmann,David,Wichmann,M,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,John F Rex,John,Rex,M,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,Andrew P Witty,Andrew,Witty,M,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,Dirk C McMahon,Dirk,Mcmahon,M,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,Marianne D Short,Marianne,Short,F,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,Steven H Nelson,Steven,Nelson,M,PERSON,UNITEDHEALTH GROUP INC
+UNITEDHEALTH GROUP INC,UNITEDHEALTH,14.28571429,Stephen J Hemsley,Stephen,Hemsley,M,PERSON,UNITEDHEALTH GROUP INC
+AT T INC,AT&T,13.33333333,Richard W Fisher,Richard,Fisher,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Scott T Ford,Scott,Ford,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Glenn H Hutchins,Glenn,Hutchins,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,William E Kennard,William,Kennard,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Stephen J Luczo,Stephen,Luczo,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Michael B McCallister,Michael,Mccallister,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Beth E Mooney,Beth,Mooney,F,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Matthew K Rose,Matthew,Rose,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Cynthia B Taylor,Cynthia,Taylor,F,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Geoffrey Y Yang,Geoffrey,Yang,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Randall L Stephenson,Randall,Stephenson,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,John J Stephens,John,Stephens,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,Jeffery S McElfresh,Jeffery,Mcelfresh,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,John T Stankey,John,Stankey,M,PERSON,AT&T INC.
+AT T INC,AT&T,13.33333333,John M Donovan,John,Donovan,M,PERSON,AT&T INC.
+HP INC,HP,12.5,Steven J Fieler,Steven,Fieler,M,PERSON,HP INC
+HP INC,HP,12.5,Catherine A Lesjak,Catherine,Lesjak,F,PERSON,HP INC
+HP INC,HP,12.5,Kim M Rivera,Kim,Rivera,M,PERSON,HP INC
+HP INC,HP,12.5,Tracy S Keogh,Tracy,Keogh,M,PERSON,HP INC
+HP INC,HP,12.5,Ron V Coughlin,Ron,Coughlin,M,PERSON,HP INC
+HP INC,HP,12.5,Jon E Flaxman,Jon,Flaxman,M,PERSON,HP INC
+HP INC,HP,12.5,Dion J Weisler,Dion,Weisler,M,PERSON,HP INC
+HP INC,HP,12.5,Enrique J Lores,Enrique,Lores,M,PERSON,HP INC
+MICRON TECHNOLOGY INC,MICRON,0,Sanjay Mehrotra,Sanjay,Mehrotra,M,PERSON,MICRON TECHNOLOGY INC
+MICRON TECHNOLOGY INC,MICRON,0,David A Zinsner,David,Zinsner,M,PERSON,MICRON TECHNOLOGY INC
+MICRON TECHNOLOGY INC,MICRON,0,Manish Bhatia,Manish,Bhatia,M,PERSON,MICRON TECHNOLOGY INC
+MICRON TECHNOLOGY INC,MICRON,0,Scott J DeBoer,Scott,Deboer,M,PERSON,MICRON TECHNOLOGY INC
+MICRON TECHNOLOGY INC,MICRON,0,Sumit Sadana,Sumit,Sadana,M,PERSON,MICRON TECHNOLOGY INC
+MICRON TECHNOLOGY INC,MICRON,0,Grant Date,Grant,Date,M,PERSON,MICRON TECHNOLOGY INC
+Datadog Inc,"Datadog,",0,Olivier Pomel,Olivier,Pomel,M,PERSON,"Datadog, Inc."
+Datadog Inc,"Datadog,",0,Alexis LeQuoc,Alexis,Lequoc,M,PERSON,"Datadog, Inc."
+Datadog Inc,"Datadog,",0,Amit Agarwal,Amit,Agarwal,M,PERSON,"Datadog, Inc."
+Datadog Inc,"Datadog,",0,Grant Date,Grant,Date,M,PERSON,"Datadog, Inc."
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,Tom Leighton,Tom,Leighton,M,PERSON,AKAMAI TECHNOLOGIES INC
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,Edward McGowan,Edward,Mcgowan,M,PERSON,AKAMAI TECHNOLOGIES INC
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,Robert Blumofe,Robert,Blumofe,M,PERSON,AKAMAI TECHNOLOGIES INC
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,Adam Karon,Adam,Karon,M,PERSON,AKAMAI TECHNOLOGIES INC
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,Rick McConnell,Rick,Mcconnell,M,PERSON,AKAMAI TECHNOLOGIES INC
+AKAMAI TECHNOLOGIES INC,AKAMAI,0,James Benson,James,Benson,M,PERSON,AKAMAI TECHNOLOGIES INC
+Fastly Inc,"Fastly,",0,Joshua Bixby,Joshua,Bixby,M,PERSON,"Fastly, Inc."
+Fastly Inc,"Fastly,",0,Artur Bergman,Artur,Bergman,M,PERSON,"Fastly, Inc."
+Fastly Inc,"Fastly,",0,Paul Luongo,Paul,Luongo,M,PERSON,"Fastly, Inc."
+Cloudera Inc,"Cloudera,",0,Thomas J Reilly,Thomas,Reilly,M,PERSON,"Cloudera, Inc."
+Cloudera Inc,"Cloudera,",0,Jim Frankola,Jim,Frankola,M,PERSON,"Cloudera, Inc."
+Cloudera Inc,"Cloudera,",0,Arun Murthy,Arun,Murthy,M,PERSON,"Cloudera, Inc."
+Coupa Software Inc,Coupa,0,Robert Bernshteyn,Robert,Bernshteyn,M,PERSON,Coupa Software Inc
+Coupa Software Inc,Coupa,0,Todd Ford,Todd,Ford,M,PERSON,Coupa Software Inc
+Coupa Software Inc,Coupa,0,Mark Riggs,Mark,Riggs,M,PERSON,Coupa Software Inc
+Coupa Software Inc,Coupa,0,Steven Winter,Steven,Winter,M,PERSON,Coupa Software Inc
+CVENT INC,CVENT,0,Reggie K Aggarwal,Reggie,Aggarwal,M,PERSON,CVENT INC
+CVENT INC,CVENT,0,Charles V Ghoorah,Charles,Ghoorah,M,PERSON,CVENT INC
+CVENT INC,CVENT,0,David C Quattrone,David,Quattrone,M,PERSON,CVENT INC
+FITBIT INC,"FITBIT,",0,James Park,James,Park,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Eric N Friedman,Eric,Friedman,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Ronald W Kisling,Ronald,Kisling,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Andy Missan,Andy,Missan,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Jeff Devine,Jeff,Devine,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,James ParkCash,James,Parkcash,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Eric N FriedmanCash,Eric,Friedmancash,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Ronald W KislingCash,Ronald,Kislingcash,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Andy MissanCash,Andy,Missancash,M,PERSON,"FITBIT, INC."
+FITBIT INC,"FITBIT,",0,Jeff DevineCash,Jeff,Devinecash,M,PERSON,"FITBIT, INC."
+QUALCOMM INC DE,QUALCOMM,0,Steve Mollenkopf,Steve,Mollenkopf,M,PERSON,QUALCOMM INC/DE
+QUALCOMM INC DE,QUALCOMM,0,Cristiano R Amon,Cristiano,Amon,M,PERSON,QUALCOMM INC/DE
+QUALCOMM INC DE,QUALCOMM,0,James H Thompson,James,Thompson,M,PERSON,QUALCOMM INC/DE
+QUALCOMM INC DE,QUALCOMM,0,Alexander H Rogers,Alexander,Rogers,M,PERSON,QUALCOMM INC/DE
+QUALCOMM INC DE,QUALCOMM,0,George S Davis,George,Davis,M,PERSON,QUALCOMM INC/DE
+QUALCOMM INC DE,QUALCOMM,0,David E Wise,David,Wise,M,PERSON,QUALCOMM INC/DE
+T-Mobile US,T-Mobile,0,John J Legere,John,Legere,M,PERSON,T-Mobile US
+T-Mobile US,T-Mobile,0,Neville R Ray,Neville,Ray,M,PERSON,T-Mobile US
+T-Mobile US,T-Mobile,0,David R Carey,David,Carey,M,PERSON,T-Mobile US
+T-Mobile US,T-Mobile,0,Grant  Date,Grant,Date,M,PERSON,T-Mobile US
+CHARTER COMMUNICATIONS INC,CHARTER,0,Thomas M Rutledge,Thomas,Rutledge,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+CHARTER COMMUNICATIONS INC,CHARTER,0,John Bickham,John,Bickham,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+CHARTER COMMUNICATIONS INC,CHARTER,0,David Ellen,David,Ellen,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+CHARTER COMMUNICATIONS INC,CHARTER,0,Christopher L Winfrey,Christopher,Winfrey,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+CHARTER COMMUNICATIONS INC,CHARTER,0,Kevin D Howard,Kevin,Howard,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+CHARTER COMMUNICATIONS INC,CHARTER,0,Grant  Date,Grant,Date,M,PERSON,"CHARTER COMMUNICATIONS, INC."
+Veritone Inc,"Veritone,",0,Peter F Collins,Peter,Collins,M,PERSON,"Veritone, Inc."
+Veritone Inc,"Veritone,",0,Jeffrey B Coyne,Jeffrey,Coyne,M,PERSON,"Veritone, Inc."
+INTEL CORP,INTEL,0,George Davis,George,Davis,M,PERSON,INTEL CORP
+INTEL CORP,INTEL,0,Todd Underwood,Todd,Underwood,M,PERSON,INTEL CORP
+INTEL CORP,INTEL,0,Navin Shenoy,Navin,Shenoy,M,PERSON,INTEL CORP
+INTEL CORP,INTEL,0,Gregory Bryant,Gregory,Bryant,M,PERSON,INTEL CORP
+INTEL CORP,INTEL,0,Grant Date,Grant,Date,M,PERSON,INTEL CORP
+PFIZER INC,PFIZER,0,BlackRock Inc,Blackrock,Inc,M,PERSON,PFIZER INC
+EVERBRIDGE INC,"EVERBRIDGE,",0,Jaime Ellertson,Jaime,Ellertson,M,PERSON,"EVERBRIDGE, INC."
+EVERBRIDGE INC,"EVERBRIDGE,",0,Kenneth S Goldman,Kenneth,Goldman,M,PERSON,"EVERBRIDGE, INC."
+EVERBRIDGE INC,"EVERBRIDGE,",0,Imad Mouline,Imad,Mouline,M,PERSON,"EVERBRIDGE, INC."
+EVERBRIDGE INC,"EVERBRIDGE,",0,Phillip Huff,Phillip,Huff,M,PERSON,"EVERBRIDGE, INC."
+CVS HEALTH Corp,CVS,0,BlackRock Inc,Blackrock,Inc,M,PERSON,CVS HEALTH Corp
+PEPSICO INC,PEPSICO,0,Ramon L Laguarta,Ramon,Laguarta,M,PERSON,PEPSICO INC
+PEPSICO INC,PEPSICO,0,Hugh F Johnston,Hugh,Johnston,M,PERSON,PEPSICO INC
+PEPSICO INC,PEPSICO,0,Kirk Tanner,Kirk,Tanner,M,PERSON,PEPSICO INC
+PEPSICO INC,PEPSICO,0,Silviu Popovici,Silviu,Popovici,M,PERSON,PEPSICO INC
+PEPSICO INC,PEPSICO,0,Ronald Schellekens,Ronald,Schellekens,M,PERSON,PEPSICO INC
+VEEVA SYSTEMS INC,VEEVA,0,Thomas D Schwenger,Thomas,Schwenger,M,PERSON,VEEVA SYSTEMS INC
+VEEVA SYSTEMS INC,VEEVA,0,Peter P Gassner,Peter,Gassner,M,PERSON,VEEVA SYSTEMS INC
+VEEVA SYSTEMS INC,VEEVA,0,Timothy S Cabral,Timothy,Cabral,M,PERSON,VEEVA SYSTEMS INC
+VEEVA SYSTEMS INC,VEEVA,0,Alan V Mateo,Alan,Mateo,M,PERSON,VEEVA SYSTEMS INC
+VEEVA SYSTEMS INC,VEEVA,0,Alan V,Alan,V,M,PERSON,VEEVA SYSTEMS INC
+MARIN SOFTWARE INC,MARIN,0,Christopher Lien,Christopher,Lien,M,PERSON,MARIN SOFTWARE INC
+MARIN SOFTWARE INC,MARIN,0,Wister Walcott,Wister,Walcott,M,PERSON,MARIN SOFTWARE INC
+MARIN SOFTWARE INC,MARIN,0,Robert Bertz,Robert,Bertz,M,PERSON,MARIN SOFTWARE INC
+MARIN SOFTWARE INC,MARIN,0,Bradley Kinnish,Bradley,Kinnish,M,PERSON,MARIN SOFTWARE INC
+Slack Technologies Inc,Slack,0,Stewart Butterfield,Stewart,Butterfield,M,PERSON,"Slack Technologies, Inc."
+Slack Technologies Inc,Slack,0,Robert Frati,Robert,Frati,M,PERSON,"Slack Technologies, Inc."
+Slack Technologies Inc,Slack,0,Allen Shim,Allen,Shim,M,PERSON,"Slack Technologies, Inc."
+SPLUNK INC,SPLUNK,0,Douglas Merritt,Douglas,Merritt,M,PERSON,SPLUNK INC
+SPLUNK INC,SPLUNK,0,Jason Child,Jason,Child,M,PERSON,SPLUNK INC
+SPLUNK INC,SPLUNK,0,David Conte,David,Conte,M,PERSON,SPLUNK INC
+SPLUNK INC,SPLUNK,0,Scott Morgan,Scott,Morgan,M,PERSON,SPLUNK INC
+SPLUNK INC,SPLUNK,0,Timothy Tully,Timothy,Tully,M,PERSON,SPLUNK INC
+DEERE & CO,DEERE,0,Samuel R Allen,Samuel,Allen,M,PERSON,DEERE & CO
+DEERE & CO,DEERE,0,Rajesh Kalathur,Rajesh,Kalathur,M,PERSON,DEERE & CO
+DEERE & CO,DEERE,0,James M Field,James,Field,M,PERSON,DEERE & CO
+DEERE & CO,DEERE,0,Cory J Reed,Cory,Reed,M,PERSON,DEERE & CO
+DEERE & CO,DEERE,0,Ryan D Campbell,Ryan,Campbell,M,PERSON,DEERE & CO
+Dell Technologies Inc,Dell,0,Simon PattersonI,Simon,Pattersoni,M,PERSON,Dell Technologies Inc.
+Dell Technologies Inc,Dell,0,Lynn M VojvodichIu,Lynn,Vojvodichiu,M,PERSON,Dell Technologies Inc.
+Okta Inc,"Okta,",0,Todd McKinnon,Todd,Mckinnon,M,PERSON,"Okta, Inc."
+Okta Inc,"Okta,",0,William E Losch,William,Losch,M,PERSON,"Okta, Inc."
+Okta Inc,"Okta,",0,Charles Race,Charles,Race,M,PERSON,"Okta, Inc."
+Okta Inc,"Okta,",0,Jonathan T Runyan,Jonathan,Runyan,M,PERSON,"Okta, Inc."
+Okta Inc,"Okta,",0,Grant Date,Grant,Date,M,PERSON,"Okta, Inc."
+Hewlett Packard Enterprise Co,Hewlett,0,Antonio F Neri,Antonio,Neri,M,PERSON,Hewlett Packard Enterprise Co
+Hewlett Packard Enterprise Co,Hewlett,0,Tarek Robbiati,Tarek,Robbiati,M,PERSON,Hewlett Packard Enterprise Co
+Hewlett Packard Enterprise Co,Hewlett,0,John F Schultz,John,Schultz,M,PERSON,Hewlett Packard Enterprise Co
+Hewlett Packard Enterprise Co,Hewlett,0,Philip Davis,Philip,Davis,M,PERSON,Hewlett Packard Enterprise Co
+"Tesla, Inc.","Tesla,",0,Elon Musk,Elon,Musk,M,PERSON,"Tesla, Inc."
+"Tesla, Inc.","Tesla,",0,Zachary Kirkhorn,Zachary,Kirkhorn,M,PERSON,"Tesla, Inc."
+"Tesla, Inc.","Tesla,",0,Jerome Guillen,Jerome,Guillen,M,PERSON,"Tesla, Inc."
+"Tesla, Inc.","Tesla,",0,Andrew Baglino,Andrew,Baglino,M,PERSON,"Tesla, Inc."
+"Tesla, Inc.","Tesla,",0,Deepak Ahuja,Deepak,Ahuja,M,PERSON,"Tesla, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Mark McClain,Mark,Mcclain,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Jason Ream,Jason,Ream,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Howard Greenfield,Howard,Greenfield,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Andrew Kahl,Andrew,Kahl,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Matt Mills,Matt,Mills,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+Sailpoint Technologies Holdings Inc,Sailpoint,0,Grant Date,Grant,Date,M,PERSON,"Sailpoint Technologies Holdings, Inc."
+VMWARE INC,"VMWARE,",0,Patrick Gelsinger,Patrick,Gelsinger,M,PERSON,"VMWARE, INC."
+VMWARE INC,"VMWARE,",0,Zane Rowe,Zane,Rowe,M,PERSON,"VMWARE, INC."
+VMWARE INC,"VMWARE,",0,Sanjay Poonen,Sanjay,Poonen,M,PERSON,"VMWARE, INC."
+VMWARE INC,"VMWARE,",0,Rajiv Ramaswami,Rajiv,Ramaswami,M,PERSON,"VMWARE, INC."
+VMWARE INC,"VMWARE,",0,Patrick GelsingerBonus,Patrick,Gelsingerbonus,M,PERSON,"VMWARE, INC."
+VMWARE INC,"VMWARE,",0,Zane RoweBonus,Zane,Rowebonus,M,PERSON,"VMWARE, INC."
+ADOBE INC,ADOBE,0,Shantanu Narayen,Shantanu,Narayen,M,PERSON,ADOBE INC.
+ADOBE INC,ADOBE,0,John Murphy,John,Murphy,M,PERSON,ADOBE INC.
+ADOBE INC,ADOBE,0,Scott Belsky,Scott,Belsky,M,PERSON,ADOBE INC.
+ADOBE INC,ADOBE,0,Bryan Lamkin,Bryan,Lamkin,M,PERSON,ADOBE INC.
+ADOBE INC,ADOBE,0,Abhay Parasnis,Abhay,Parasnis,M,PERSON,ADOBE INC.
+FORD MOTOR CO,FORD,0,James P Hackett,James,Hackett,M,PERSON,FORD MOTOR CO
+FORD MOTOR CO,FORD,0,Tim Stone,Tim,Stone,M,PERSON,FORD MOTOR CO
+FORD MOTOR CO,FORD,0,Joseph R Hinrichs,Joseph,Hinrichs,M,PERSON,FORD MOTOR CO
+FORD MOTOR CO,FORD,0,Robert L Shanks,Robert,Shanks,M,PERSON,FORD MOTOR CO
+Zscaler Inc,"Zscaler,",0,Jay Chaudhry,Jay,Chaudhry,M,PERSON,"Zscaler, Inc."
+Zscaler Inc,"Zscaler,",0,Amit Sinha,Amit,Sinha,M,PERSON,"Zscaler, Inc."
+Zscaler Inc,"Zscaler,",0,Robert Schlossman,Robert,Schlossman,M,PERSON,"Zscaler, Inc."
+Zoom Video Communications Inc,Zoom,0,Kelly Steckelberg,Kelly,Steckelberg,M,PERSON,"Zoom Video Communications, Inc."
+Zoom Video Communications Inc,Zoom,0,Ryan Azus,Ryan,Azus,M,PERSON,"Zoom Video Communications, Inc."
+Zoom Video Communications Inc,Zoom,0,Eric S Yuan,Eric,Yuan,M,PERSON,"Zoom Video Communications, Inc."
