@@ -1,0 +1,769 @@
+Full,First,Last,Company,gender,Dec,Revenue,Employee_Tot,Industry,Sector
+Wesley G Bush,Wesley,Bush,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Linda R Gooden,Linda,Gooden,General Motors Co,F,Keep,1.37E+11,164000,Automotive,Automobiles
+Joseph Jimenez,Joseph,Jimenez,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Jane L Mendillo,Jane,Mendillo,General Motors Co,F,Keep,1.37E+11,164000,Automotive,Automobiles
+Judith A Miscik,Judith,Miscik,General Motors Co,F,Keep,1.37E+11,164000,Automotive,Automobiles
+Michael G Mullen,Michael,Mullen,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+James J Mulva,James,Mulva,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Patricia F Russo,Patricia,Russo,General Motors Co,F,Keep,1.37E+11,164000,Automotive,Automobiles
+Thomas M Schoewe,Thomas,Schoewe,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Theodore M Solso,Theodore,Solso,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Carol M Stephenson,Carol,Stephenson,General Motors Co,F,Keep,1.37E+11,164000,Automotive,Automobiles
+Devin N Wenig,Devin,Wenig,General Motors Co,M,Keep,1.37E+11,164000,Automotive,Automobiles
+Stephen G Butler,Stephen,Butler,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+Kimberly A Casiano,Kimberly,Casiano,FORD MOTOR CO,F,Keep,1.56E+11,190000,Automotive,Automobiles
+William E Kennard,William,Kennard,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+John C Lechleiter,John,Lechleiter,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+Ellen R Marram,Ellen,Marram,FORD MOTOR CO,F,Keep,1.56E+11,190000,Automotive,Automobiles
+Beth E Mooney,Beth,Mooney,FORD MOTOR CO,F,Keep,1.56E+11,190000,Automotive,Automobiles
+John L Thornton,John,Thornton,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+John B Veihmeyer,John,Veihmeyer,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+Lynn M Vojvodich,Lynn,Vojvodich,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+John S Weinberg,John,Weinberg,FORD MOTOR CO,M,Keep,1.56E+11,190000,Automotive,Automobiles
+Kenneth I Chenault,Kenneth,Chenault,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Michael L Eskew,Michael,Eskew,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+David N Farr,David,Farr,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Alex Gorsky,Alex,Gorsky,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Michelle J Howard,Michelle,Howard,INTERNATIONAL BUSINESS MACHINES CORP,F,Keep,77147638000,383800,Engineering,Computer/Co
+Andrew N Liveris,Andrew,Liveris,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Hutham S Olayan,Hutham,Olayan,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+James W Owens,James,Owens,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Martha E Pollack,Martha,Pollack,INTERNATIONAL BUSINESS MACHINES CORP,F,Keep,77147638000,383800,Engineering,Computer/Co
+Joseph R Swedish,Joseph,Swedish,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Sidney Taurel,Sidney,Taurel,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Peter R Voser,Peter,Voser,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Frederick H Waddell,Frederick,Waddell,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Vanguard Boulevard,Vanguard,Boulevard,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Malvern PA,Malvern,Pa,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+BlackRock Inc,Blackrock,Inc,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+Boston MA,Boston,Ma,INTERNATIONAL BUSINESS MACHINES CORP,M,Keep,77147638000,383800,Engineering,Computer/Co
+David W Dorman,David,Dorman,Dell Technologies Inc.,M,Keep,1.03E+11,165000,Technology,Software
+William D Green,William,Green,Dell Technologies Inc.,M,Keep,1.03E+11,165000,Technology,Software
+Ellen J Kullman,Ellen,Kullman,Dell Technologies Inc.,F,Keep,1.03E+11,165000,Technology,Software
+Lynn M Vojvodich,Lynn,Vojvodich,Dell Technologies Inc.,M,Keep,1.03E+11,165000,Technology,Software
+James Bell,James,Bell,Apple Inc.,M,Keep,2.74E+11,147000,Electronics,Computers/Co
+Al Gore,Al,Gore,Apple Inc.,M,Keep,2.74E+11,147000,Electronics,Computers/Co
+Bob Iger,Bob,Iger,Apple Inc.,M,Keep,2.74E+11,147000,Electronics,Computers/Co
+Andrea Jung,Andrea,Jung,Apple Inc.,F,Keep,2.74E+11,147000,Electronics,Computers/Co
+Art Levinson,Art,Levinson,Apple Inc.,M,Keep,2.74E+11,147000,Electronics,Computers/Co
+Ron Sugar,Ron,Sugar,Apple Inc.,M,Keep,2.74E+11,147000,Electronics,Computers/Co
+Sue Wagner,Sue,Wagner,Apple Inc.,F,Keep,2.74E+11,147000,Electronics,Computers/Co
+Aneel Bhusri,Aneel,Bhusri,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+James J Goetz,James,Goetz,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Reed E Hundt,Reed,Hundt,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Omar Ishrak,Omar,Ishrak,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Risa LavizzoMourey,Risa,Lavizzomourey,INTEL CORP,F,Keep,71964600000,110800,Electronics,Semiconducto
+Gregory D Smith,Gregory,Smith,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Andrew Wilson,Andrew,Wilson,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Frank D Yeary,Frank,Yeary,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Patricia F Russo,Patricia,Russo,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Daniel Ammann,Daniel,Ammann,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Michael J Angelakis,Michael,Angelakis,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Pamela L Carter,Pamela,Carter,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Jean M Hobby,Jean,Hobby,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+George R Kurtz,George,Kurtz,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Raymond J Lane,Raymond,Lane,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Ann M Livermore,Ann,Livermore,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Antonio F Neri,Antonio,Neri,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Raymond E Ozzie,Raymond,Ozzie,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Gary M Reiner,Gary,Reiner,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+LipBu Tan,Lipbu,Tan,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Margaret C Whitman,Margaret,Whitman,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Colleen F Arnold,Colleen,Arnold,CARDINAL HEALTH INC,F,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Carrie S Cox,Carrie,Cox,CARDINAL HEALTH INC,F,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Calvin Darden,Calvin,Darden,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Bruce L Downey,Bruce,Downey,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Akhil Johri,Akhil,Johri,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Gregory B Kenny,Gregory,Kenny,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Nancy Killefer,Nancy,Killefer,CARDINAL HEALTH INC,F,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Dean A Scarborough,Dean,Scarborough,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+John H Weiland,John,Weiland,CARDINAL HEALTH INC,M,Keep,1.53E+11,48000,Healthcare,Drug Retail
+Ronald E Blaylock,Ronald,Blaylock,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Joseph J Echevarria,Joseph,Echevarria,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+James M Kilts,James,Kilts,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Shantanu Narayen,Shantanu,Narayen,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+James C Smith,James,Smith,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Beneficial Owners,Beneficial,Owners,PFIZER INC,F,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Frank A DAmelio,Frank,Damelio,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+James Quincey,James,Quincey,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Ian C Read,Ian,Read,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+John D Young,John,Young,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Vanguard Boulevard,Vanguard,Boulevard,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Malvern PA,Malvern,Pa,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+BlackRock Inc,Blackrock,Inc,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Boston MA,Boston,Ma,PFIZER INC,M,Keep,51749981000,88300,Healthcare,Pharmaceutic
+Leslie A Brun,Leslie,Brun,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Thomas R Cech,Thomas,Cech,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Pamela J Craig,Pamela,Craig,"Merck & Co., Inc.",F,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Thomas H Glocer,Thomas,Glocer,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Rochelle B Lazarus,Rochelle,Lazarus,"Merck & Co., Inc.",F,Keep,46585940000,71000,Healthcare,Pharmaceutic
+John H Noseworthy,John,Noseworthy,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Paul B Rothman,Paul,Rothman,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Patricia F Russo,Patricia,Russo,"Merck & Co., Inc.",F,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Inge G Thulin,Inge,Thulin,"Merck & Co., Inc.",F,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Wendell P Weeks,Wendell,Weeks,"Merck & Co., Inc.",F,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Peter C Wendell,Peter,Wendell,"Merck & Co., Inc.",M,Keep,46585940000,71000,Healthcare,Pharmaceutic
+Shona L Brown,Shona,Brown,PEPSICO INC,F,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+George W Buckley,George,Buckley,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Cesar Conde,Cesar,Conde,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Ian Cook,Ian,Cook,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Dina Dublon,Dina,Dublon,PEPSICO INC,F,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Richard W Fisher,Richard,Fisher,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Michelle Gass,Michelle,Gass,PEPSICO INC,F,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+William R Johnson,William,Johnson,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Indra K Nooyi,Indra,Nooyi,PEPSICO INC,F,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+David C Page,David,Page,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Robert C Pohlad,Robert,Pohlad,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Daniel Vasella,Daniel,Vasella,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Darren Walker,Darren,Walker,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Alberto Weisser,Alberto,Weisser,PEPSICO INC,M,Keep,64659390000,267000,Consumer Goods,Food & Beverage
+Linda B Bammann,Linda,Bammann,JPMORGAN CHASE & CO,F,Keep,1.5E+11,256981,Financial,Banking
+James A Bell,James,Bell,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Stephen B Burke,Stephen,Burke,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Todd A Combs,Todd,Combs,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+James S Crown,James,Crown,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Timothy P Flynn,Timothy,Flynn,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Mellody Hobson,Mellody,Hobson,JPMORGAN CHASE & CO,F,Keep,1.5E+11,256981,Financial,Banking
+Michael A Neal,Michael,Neal,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Lee R Raymond,Lee,Raymond,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+William C Weldon,William,Weldon,JPMORGAN CHASE & CO,M,Keep,1.5E+11,256981,Financial,Banking
+Ellen M Costello,Ellen,Costello,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+Grace E Dailey,Grace,Dailey,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+Barbara J Desoer,Barbara,Desoer,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+John C Dugan,John,Dugan,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Duncan P Hennes,Duncan,Hennes,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Peter B Henry,Peter,Henry,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Franz B Humer,Franz,Humer,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Renee J James,Renee,James,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+Eugene M McQuade,Eugene,Mcquade,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Gary M Reiner,Gary,Reiner,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Anthony M Santomero,Anthony,Santomero,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Diana L Taylor,Diana,Taylor,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+James S Turley,James,Turley,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Deborah C Wright,Deborah,Wright,CITIGROUP INC,F,Keep,1.04E+11,200000,Financial,Banking
+Alexander R Wynaendts,Alexander,Wynaendts,CITIGROUP INC,M,Keep,1.04E+11,200000,Financial,Banking
+Sharon L Allen,Sharon,Allen,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Susan S Bies,Susan,Bies,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Arnold W Donald,Arnold,Donald,BANK OF AMERICA CORP,M,Keep,1.14E+11,208000,Financial,Banking
+Linda P Hudson,Linda,Hudson,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Monica C Lozano,Monica,Lozano,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Denise L Ramos,Denise,Ramos,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Clayton S Rose,Clayton,Rose,BANK OF AMERICA CORP,M,Keep,1.14E+11,208000,Financial,Banking
+Michael D White,Michael,White,BANK OF AMERICA CORP,M,Keep,1.14E+11,208000,Financial,Banking
+Thomas D Woods,Thomas,Woods,BANK OF AMERICA CORP,M,Keep,1.14E+11,208000,Financial,Banking
+Maria T Zuber,Maria,Zuber,BANK OF AMERICA CORP,F,Keep,1.14E+11,208000,Financial,Banking
+Richard W Fisher,Richard,Fisher,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Scott T Ford,Scott,Ford,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Glenn H Hutchins,Glenn,Hutchins,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+William E Kennard,William,Kennard,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Debra L Lee,Debra,Lee,AT&T INC.,F,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Stephen J Luczo,Stephen,Luczo,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Michael B McCallister,Michael,Mccallister,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Beth E Mooney,Beth,Mooney,AT&T INC.,F,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Joyce M Roche,Joyce,Roche,AT&T INC.,F,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Matthew K Rose,Matthew,Rose,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Cynthia B Taylor,Cynthia,Taylor,AT&T INC.,F,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Geoffrey Y Yang,Geoffrey,Yang,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Randall L Stephenson,Randall,Stephenson,AT&T INC.,M,Keep,1.81E+11,246000,Telecommunications,Wireless Tel
+Shellye Archambeau,Shellye,Archambeau,VERIZON COMMUNICATIONS INC,F,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Mark Bertolini,Mark,Bertolini,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Vittorio Colao,Vittorio,Colao,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Melanie Healey,Melanie,Healey,VERIZON COMMUNICATIONS INC,F,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Lowell McAdam,Lowell,Mcadam,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Daniel Schulman,Daniel,Schulman,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Rodney Slater,Rodney,Slater,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Kathryn Tesija,Kathryn,Tesija,VERIZON COMMUNICATIONS INC,F,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Gregory Weaver,Gregory,Weaver,VERIZON COMMUNICATIONS INC,M,Keep,1.32E+11,135000,Telecommunications,Wireless Tel
+Kenneth J Bacon,Kenneth,Bacon,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Madeline S Bell,Madeline,Bell,COMCAST CORP,F,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Sheldon M Bonovitz,Sheldon,Bonovitz,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Edward D Breen,Edward,Breen,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Gerald L Hassell,Gerald,Hassell,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Jeffrey A Honickman,Jeffrey,Honickman,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Maritza G Montiel,Maritza,Montiel,COMCAST CORP,F,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Asuka Nakahara,Asuka,Nakahara,COMCAST CORP,F,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+David C Novak,David,Novak,COMCAST CORP,M,Keep,1.09E+11,190000,Media/Entertainment,Broadcasting
+Kim C Goodman,Kim,Goodman,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Craig Jacobson,Craig,Jacobson,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Gregory B Maffei,Gregory,Maffei,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+David Merritt,David,Merritt,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+James E Meyer,James,Meyer,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Steven A Miron,Steven,Miron,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Balan Nair,Balan,Nair,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Michael Newhouse,Michael,Newhouse,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Mauricio Ramos,Mauricio,Ramos,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Eric Zinterhofer,Eric,Zinterhofer,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Thomas M Rutledge,Thomas,Rutledge,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+John Bickham,John,Bickham,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+David G Ellen,David,Ellen,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Christopher L Winfrey,Christopher,Winfrey,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Richard R Dykhouse,Richard,Dykhouse,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Jonathan Hargis,Jonathan,Hargis,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Kevin D Howard,Kevin,Howard,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Thomas E Adams,Thomas,Adams,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+William Archer,William,Archer,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Mike Bair,Mike,Bair,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Catherine C Bohigian,Catherine,Bohigian,"CHARTER COMMUNICATIONS, INC.",F,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Richard J DiGeronimo,Richard,Digeronimo,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Charles Fisher,Charles,Fisher,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Cliff Hagan,Cliff,Hagan,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+David Kline,David,Kline,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Paul Marchand,Paul,Marchand,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Stephanie Mitchko,Stephanie,Mitchko,"CHARTER COMMUNICATIONS, INC.",F,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Tom Montemagno,Tom,Montemagno,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+James Nuzzo,James,Nuzzo,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Scott Weber,Scott,Weber,"CHARTER COMMUNICATIONS, INC.",M,Keep,45764022000,95100,Media/Entertainment,Broadcasting
+Continuing Directors,Continuing,Directors,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Martha H Bejar,Martha,Bejar,"CENTURYLINK, INC",F,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Virginia Boulet,Virginia,Boulet,"CENTURYLINK, INC",F,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Peter C Brown,Peter,Brown,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Kevin P Chilton,Kevin,Chilton,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Steven T Clontz,Steven,Clontz,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Michael J Roberts,Michael,Roberts,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Laurie A Siegel,Laurie,Siegel,"CENTURYLINK, INC",F,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Mary L Landrieu,Mary,Landrieu,"CENTURYLINK, INC",F,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Harvey P Perry,Harvey,Perry,"CENTURYLINK, INC",M,Keep,22400900000,42500,Telecommunications,Wired Teleco
+Donald P Hutchison,Donald,Hutchison,MARIN SOFTWARE INC,M,Keep,49035770,229,Technology,Software
+Brian Kinion,Brian,Kinion,MARIN SOFTWARE INC,F,Keep,49035770,229,Technology,Software
+Daina Middleton,Daina,Middleton,MARIN SOFTWARE INC,F,Keep,49035770,229,Technology,Software
+Lane Bess,Lane,Bess,"Zscaler, Inc.",M,Keep,467367400,2020,Technology,Internet/Onl
+Karen Blasing,Karen,Blasing,"Zscaler, Inc.",F,Keep,467367400,2020,Technology,Internet/Onl
+Andrew Brown,Andrew,Brown,"Zscaler, Inc.",M,Keep,467367400,2020,Technology,Internet/Onl
+Scott Darling,Scott,Darling,"Zscaler, Inc.",M,Keep,467367400,2020,Technology,Internet/Onl
+Charles Giancarlo,Charles,Giancarlo,"Zscaler, Inc.",M,Keep,467367400,2020,Technology,Internet/Onl
+Nehal Raj,Nehal,Raj,"Zscaler, Inc.",F,Keep,467367400,2020,Technology,Internet/Onl
+PROPOSAL NO,Proposal,No,"Zscaler, Inc.",F,Keep,467367400,2020,Technology,Internet/Onl
+Audit Fees,Audit,Fees,"Zscaler, Inc.",M,Keep,467367400,2020,Technology,Internet/Onl
+Aida lvarez,Aida,Lvarez,"Fastly, Inc.",F,Keep,200459700,630,Technology,Internet/Onl
+Sunil Dhaliwal,Sunil,Dhaliwal,"Fastly, Inc.",M,Keep,200459700,630,Technology,Internet/Onl
+David Hornik,David,Hornik,"Fastly, Inc.",M,Keep,200459700,630,Technology,Internet/Onl
+Christopher Paisley,Christopher,Paisley,"Fastly, Inc.",M,Keep,200459700,630,Technology,Internet/Onl
+Kelly Wright,Kelly,Wright,"Fastly, Inc.",M,Keep,200459700,630,Technology,Internet/Onl
+Gil Penchina,Gil,Penchina,"Fastly, Inc.",M,Keep,200459700,630,Technology,Internet/Onl
+Leslie Campbell,Leslie,Campbell,Coupa Software Inc,M,Keep,529164080,1693,Technology,Software
+Roger Siboni,Roger,Siboni,Coupa Software Inc,M,Keep,529164080,1693,Technology,Software
+Tayloe Stansbury,Tayloe,Stansbury,Coupa Software Inc,F,Keep,529164080,1693,Technology,Software
+Scott Thompson,Scott,Thompson,Coupa Software Inc,M,Keep,529164080,1693,Technology,Software
+Michael Callahan,Michael,Callahan,"Datadog, Inc.",M,Keep,362780000.1,1403,Technology,Internet/Onl
+Dev Ittycheria,Dev,Ittycheria,"Datadog, Inc.",M,Keep,362780000.1,1403,Technology,Internet/Onl
+Matthew Jacobson,Matthew,Jacobson,"Datadog, Inc.",M,Keep,362780000.1,1403,Technology,Internet/Onl
+Julie Richardson,Julie,Richardson,"Datadog, Inc.",F,Keep,362780000.1,1403,Technology,Internet/Onl
+Shardul Shah,Shardul,Shah,"Datadog, Inc.",M,Keep,362780000.1,1403,Technology,Internet/Onl
+Kirill Sheynkman,Kirill,Sheynkman,"Datadog, Inc.",M,Keep,362780000.1,1403,Technology,Internet/Onl
+Andrew Braccia,Andrew,Braccia,"Slack Technologies, Inc.",M,Keep,630419999.9,2045,Technology,Software
+Edith Cooper,Edith,Cooper,"Slack Technologies, Inc.",F,Keep,630419999.9,2045,Technology,Software
+Sarah Friar,Sarah,Friar,"Slack Technologies, Inc.",F,Keep,630419999.9,2045,Technology,Software
+Sheila B Jordan,Sheila,Jordan,"Slack Technologies, Inc.",F,Keep,630419999.9,2045,Technology,Software
+Michael M McNamara,Michael,Mcnamara,"Slack Technologies, Inc.",M,Keep,630419999.9,2045,Technology,Software
+Chamath Palihapitiya,Chamath,Palihapitiya,"Slack Technologies, Inc.",F,Keep,630419999.9,2045,Technology,Software
+John OFarrell,John,Ofarrell,"Slack Technologies, Inc.",M,Keep,630419999.9,2045,Technology,Software
+Graham Smith,Graham,Smith,"Slack Technologies, Inc.",M,Keep,630419999.9,2045,Technology,Software
+and theremaining,And,Theremaining,"Slack Technologies, Inc.",M,Keep,630419999.9,2045,Technology,Software
+Jonathan Chadwick,Jonathan,Chadwick,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Carl Eschenbach,Carl,Eschenbach,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Peter Gassner,Peter,Gassner,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Kimberly L Hammonds,Kimberly,Hammonds,"Zoom Video Communications, Inc.",F,Keep,622659999.9,2532,Technology,Software
+Dan Scheinman,Dan,Scheinman,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Bart Swanson,Bart,Swanson,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Santiago Subotovsky,Santiago,Subotovsky,"Zoom Video Communications, Inc.",M,Keep,622659999.9,2532,Technology,Software
+Robert Bearden,Robert,Bearden,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Martin Cole,Martin,Cole,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Paul Cormier,Paul,Cormier,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Peter Fenton,Peter,Fenton,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Nicholas Graziano,Nicholas,Graziano,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Kimberly Hammonds,Kimberly,Hammonds,"Cloudera, Inc.",F,Keep,793019290,2723,Technology,Software
+Kevin Klausmeyer,Kevin,Klausmeyer,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Jesse Lynn,Jesse,Lynn,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Rosemary Schooler,Rosemary,Schooler,"Cloudera, Inc.",F,Keep,793019290,2723,Technology,Software
+Michael A Stankey,Michael,Stankey,"Cloudera, Inc.",M,Keep,793019290,2723,Technology,Software
+Carl Bass,Carl,Bass,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Michael Curtis,Michael,Curtis,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Michael Frandsen,Michael,Frandsen,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Hilarie KoplowMcAdams,Hilarie,Koplowmcadams,"Zendesk, Inc.",F,Keep,814174200,3570,Technology,Software
+Caryn Marooney,Caryn,Marooney,"Zendesk, Inc.",F,Keep,814174200,3570,Technology,Software
+Elizabeth Nelson,Elizabeth,Nelson,"Zendesk, Inc.",F,Keep,814174200,3570,Technology,Software
+Thomas Szkutak,Thomas,Szkutak,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Dana Stalder,Dana,Stalder,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Michelle Wilson,Michelle,Wilson,"Zendesk, Inc.",F,Keep,814174200,3570,Technology,Software
+Grant Date,Grant,Date,"Zendesk, Inc.",M,Keep,814174200,3570,Technology,Software
+Patricia F Russo,Patricia,Russo,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Daniel Ammann,Daniel,Ammann,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Michael J Angelakis,Michael,Angelakis,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Pamela L Carter,Pamela,Carter,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Jean M Hobby,Jean,Hobby,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+George R Kurtz,George,Kurtz,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Raymond J Lane,Raymond,Lane,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Ann M Livermore,Ann,Livermore,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Antonio F Neri,Antonio,Neri,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Raymond E Ozzie,Raymond,Ozzie,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Gary M Reiner,Gary,Reiner,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+LipBu Tan,Lipbu,Tan,Hewlett Packard Enterprise Co,M,Keep,31445568000,61600,Electronics,Computers/Co
+Margaret C Whitman,Margaret,Whitman,Hewlett Packard Enterprise Co,F,Keep,31445568000,61600,Electronics,Computers/Co
+Nathaniel L Checketts,Nathaniel,Checketts,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Jeff P Gehl,Jeff,Gehl,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Paul A Krieger,Paul,Krieger,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Knute P Kurtz,Knute,Kurtz,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Nayaki R Nayyar,Nayaki,Nayyar,"Veritone, Inc.",F,Keep,23051940,277,Technology,Emerging Tec
+Christopher J Oates,Christopher,Oates,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Richard H Taketa,Richard,Taketa,"Veritone, Inc.",M,Keep,23051940,277,Technology,Emerging Tec
+Robert L Bailey,Robert,Bailey,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+Richard M Beyer,Richard,Beyer,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+Patrick J Byrne,Patrick,Byrne,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+Steven Gomo,Steven,Gomo,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+Mercedes Johnson,Mercedes,Johnson,MICRON TECHNOLOGY INC,F,Keep,33316800000,40000,Electronics,Semiconducto
+Lawrence N Mondry,Lawrence,Mondry,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+Robert E Switz,Robert,Switz,MICRON TECHNOLOGY INC,M,Keep,33316800000,40000,Electronics,Semiconducto
+MaryAnn Wright,Maryann,Wright,MICRON TECHNOLOGY INC,F,Keep,33316800000,40000,Electronics,Semiconducto
+Guideline  Multiplier,Guideline,Multiplier,MICRON TECHNOLOGY INC,F,Keep,33316800000,40000,Electronics,Semiconducto
+Guideline  Amount,Guideline,Amount,MICRON TECHNOLOGY INC,F,Keep,33316800000,40000,Electronics,Semiconducto
+PROPOSAL DETAILS,Proposal,Details,MICRON TECHNOLOGY INC,F,Keep,33316800000,40000,Electronics,Semiconducto
+John E Caldwell,John,Caldwell,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Nora M Denzel,Nora,Denzel,ADVANCED MICRO DEVICES INC,F,Keep,6731016000,11400,Electronics,Semiconducto
+Mark Durcan,Mark,Durcan,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Michael Gregoire,Michael,Gregoire,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Joseph A Householder,Joseph,Householder,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Michael J Inglis,Michael,Inglis,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+John W Marren,John,Marren,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Abhi Y Talwalkar,Abhi,Talwalkar,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+Ahmed Yahia,Ahmed,Yahia,ADVANCED MICRO DEVICES INC,M,Keep,6731016000,11400,Electronics,Semiconducto
+James A Champy,James,Champy,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Anantha P Chandrakasan,Anantha,Chandrakasan,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Bruce R Evans,Bruce,Evans,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Edward H Frank,Edward,Frank,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Karen M Golz,Karen,Golz,ANALOG DEVICES INC,F,Keep,5991084000,16400,Electronics,Semiconductors
+Mark M Little,Mark,Little,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Neil Novich,Neil,Novich,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Kenton J Sicchitano,Kenton,Sicchitano,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Ray Stata,Ray,Stata,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Lisa T Su,Lisa,Su,ANALOG DEVICES INC,F,Keep,5991084000,16400,Electronics,Semiconductors
+Susie Wee,Susie,Wee,ANALOG DEVICES INC,F,Keep,5991084000,16400,Electronics,Semiconductors
+Grant Date,Grant,Date,ANALOG DEVICES INC,M,Keep,5991084000,16400,Electronics,Semiconductors
+Laura J Alber,Laura,Alber,"FITBIT, INC.",F,Keep,1434784840,1684,Electronics,Computers/Co
+Matthew Bromberg,Matthew,Bromberg,"FITBIT, INC.",M,Keep,1434784840,1684,Electronics,Computers/Co
+Glenda Flanagan,Glenda,Flanagan,"FITBIT, INC.",F,Keep,1434784840,1684,Electronics,Computers/Co
+Bradley Fluegel,Bradley,Fluegel,"FITBIT, INC.",M,Keep,1434784840,1684,Electronics,Computers/Co
+Steven Murray,Steven,Murray,"FITBIT, INC.",M,Keep,1434784840,1684,Electronics,Computers/Co
+Christopher Paisley,Christopher,Paisley,"FITBIT, INC.",M,Keep,1434784840,1684,Electronics,Computers/Co
+PROPOSAL NO,Proposal,No,"FITBIT, INC.",F,Keep,1434784840,1684,Electronics,Computers/Co
+Aida Alvarez,Aida,Alvarez,HP INC,F,Keep,59752000000,56000,Electronics,Computers/Co
+Shumeet Banerji,Shumeet,Banerji,HP INC,M,Keep,59752000000,56000,Electronics,Computers/Co
+Robert R Bennett,Robert,Bennett,HP INC,M,Keep,59752000000,56000,Electronics,Computers/Co
+Stacy BrownPhilpot,Stacy,Brownphilpot,HP INC,F,Keep,59752000000,56000,Electronics,Computers/Co
+Stephanie A Burns,Stephanie,Burns,HP INC,F,Keep,59752000000,56000,Electronics,Computers/Co
+Stacey Mobley,Stacey,Mobley,HP INC,F,Keep,59752000000,56000,Electronics,Computers/Co
+Subra Suresh,Subra,Suresh,HP INC,M,Keep,59752000000,56000,Electronics,Computers/Co
+Dion J Weisler,Dion,Weisler,HP INC,M,Keep,59752000000,56000,Electronics,Computers/Co
+Annual  Retainers,Annual,Retainers,HP INC,F,Keep,59752000000,56000,Electronics,Computers/Co
+Robert K Burgess,Robert,Burgess,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Tench Coxe,Tench,Coxe,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Persis S Drell,Persis,Drell,NVIDIA CORP,F,Keep,12155473250,13775,Technology,Semiconductors
+James C Gaither,James,Gaither,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Dawn Hudson,Dawn,Hudson,NVIDIA CORP,F,Keep,12155473250,13775,Technology,Semiconductors
+Harvey C Jones,Harvey,Jones,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Michael G McCaffery,Michael,Mccaffery,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Stephen C Neal,Stephen,Neal,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Mark L Perry,Mark,Perry,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Mark A Stevens,Mark,Stevens,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+JenHsun Huang,Jenhsun,Huang,NVIDIA CORP,F,Keep,12155473250,13775,Technology,Semiconductors
+Colette M Kress,Colette,Kress,NVIDIA CORP,F,Keep,12155473250,13775,Technology,Semiconductors
+Ajay K Puri,Ajay,Puri,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Debora Shoquist,Debora,Shoquist,NVIDIA CORP,F,Keep,12155473250,13775,Technology,Semiconductors
+Timothy S Teter,Timothy,Teter,NVIDIA CORP,M,Keep,12155473250,13775,Technology,Semiconductors
+Robert Hagerty,Robert,Hagerty,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Marv Tseu,Marv,Tseu,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Frank Baker,Frank,Baker,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Kathy Crusco,Kathy,Crusco,PLANTRONICS INC,F,Keep,1692746400,6584,Technology,Networking
+Brian Dexheimer,Brian,Dexheimer,PLANTRONICS INC,F,Keep,1692746400,6584,Technology,Networking
+Gregg Hammann,Gregg,Hammann,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+John Hart,John,Hart,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Guido Jouret,Guido,Jouret,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Marshall Mohr,Marshall,Mohr,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Daniel Moloney,Daniel,Moloney,PLANTRONICS INC,M,Keep,1692746400,6584,Technology,Networking
+Barbara T Alexander,Barbara,Alexander,QUALCOMM INC/DE,F,Keep,23531130000,41000,Technology,Semiconductors
+Martin B Anstice,Martin,Anstice,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Mark Fields,Mark,Fields,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Jeffrey W Henderson,Jeffrey,Henderson,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Thomas W Horton,Thomas,Horton,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Ann M Livermore,Ann,Livermore,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Harish Manwani,Harish,Manwani,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Mark D McLaughlin,Mark,Mclaughlin,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Francisco Ros,Francisco,Ros,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Irene B Rosenfeld,Irene,Rosenfeld,QUALCOMM INC/DE,F,Keep,23531130000,41000,Technology,Semiconductors
+Anthony J Vinciquerra,Anthony,Vinciquerra,QUALCOMM INC/DE,M,Keep,23531130000,41000,Technology,Semiconductors
+Mark W Adams,Mark,Adams,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+Judy Bruner,Judy,Bruner,Seagate Technology plc,F,Keep,10508820000,42000,Technology,Computers/Co
+Michael R Cannon,Michael,Cannon,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+William T Coleman,William,Coleman,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+Jay L Geldmacher,Jay,Geldmacher,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+Dylan Haggart,Dylan,Haggart,Seagate Technology plc,F,Keep,10508820000,42000,Technology,Computers/Co
+Stephen J Luczo,Stephen,Luczo,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+Stephanie Tilenius,Stephanie,Tilenius,Seagate Technology plc,F,Keep,10508820000,42000,Technology,Computers/Co
+Edward J Zander,Edward,Zander,Seagate Technology plc,M,Keep,10508820000,42000,Technology,Computers/Co
+Jeffrey S Berg,Jeffrey,Berg,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+Michael J Boskin,Michael,Boskin,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+Bruce R Chizen,Bruce,Chizen,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+George H Conrades,George,Conrades,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+Rona A Fairhead,Rona,Fairhead,Oracle Corp,F,Keep,39042000000,135000,Technology,Software
+Hector GarciaMolina,Hector,Garciamolina,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+Renee J James,Renee,James,Oracle Corp,F,Keep,39042000000,135000,Technology,Software
+Leon E Panetta,Leon,Panetta,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+William G Parrett,William,Parrett,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+Naomi O Seligman,Naomi,Seligman,Oracle Corp,F,Keep,39042000000,135000,Technology,Software
+Vishal Sikka,Vishal,Sikka,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+CEO evaluations,Ceo,Evaluations,Oracle Corp,M,Keep,39042000000,135000,Technology,Software
+management succession,Management,Succession,Oracle Corp,F,Keep,39042000000,135000,Technology,Software
+Reid G Hoffman,Reid,Hoffman,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Hugh F Johnston,Hugh,Johnston,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Teri L ListStoll,Teri,Liststoll,Microsoft,F,Keep,1.43E+11,163000,Technology,Software
+Charles H Noski,Charles,Noski,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Helmut Panke,Helmut,Panke,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Sandra E Peterson,Sandra,Peterson,Microsoft,F,Keep,1.43E+11,163000,Technology,Software
+Penny S Pritzker,Penny,Pritzker,Microsoft,F,Keep,1.43E+11,163000,Technology,Software
+Charles W Scharf,Charles,Scharf,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Arne M Sorenson,Arne,Sorenson,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+John W Stanton,John,Stanton,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+John W Thompson,John,Thompson,Microsoft,M,Keep,1.43E+11,163000,Technology,Software
+Emma N Walmsley,Emma,Walmsley,Microsoft,F,Keep,1.43E+11,163000,Technology,Software
+Padmasree Warrior,Padmasree,Warrior,Microsoft,F,Keep,1.43E+11,163000,Technology,Software
+Aneel Bhusri,Aneel,Bhusri,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+James J Goetz,James,Goetz,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Reed E Hundt,Reed,Hundt,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Omar Ishrak,Omar,Ishrak,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Risa LavizzoMourey,Risa,Lavizzomourey,INTEL CORP,F,Keep,71964600000,110800,Electronics,Semiconducto
+Gregory D Smith,Gregory,Smith,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Andrew Wilson,Andrew,Wilson,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Frank D Yeary,Frank,Yeary,INTEL CORP,M,Keep,71964600000,110800,Electronics,Semiconducto
+Wesley G Bush,Wesley,Bush,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Michael D Capellas,Michael,Capellas,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Mark Garrett,Mark,Garrett,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Roderick C McGeary,Roderick,Mcgeary,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Arun Sarin,Arun,Sarin,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Brenton L Saunders,Brenton,Saunders,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Carol B Tome,Carol,Tome,"CISCO SYSTEMS, INC.",F,Keep,53082075000,77500,Technology,Networking
+Steven M West,Steven,West,"CISCO SYSTEMS, INC.",M,Keep,53082075000,77500,Technology,Networking
+Charles M Geschke,Charles,Geschke,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+John E Warnock,John,Warnock,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Amy L Banse,Amy,Banse,ADOBE INC.,F,Keep,11131401200,22634,Technology,Software
+Edward W Barnholt,Edward,Barnholt,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Robert K Burgess,Robert,Burgess,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Frank A Calderoni,Frank,Calderoni,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+James E Daley,James,Daley,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Laura B Desmond,Laura,Desmond,ADOBE INC.,F,Keep,11131401200,22634,Technology,Software
+Kathleen Oberg,Kathleen,Oberg,ADOBE INC.,F,Keep,11131401200,22634,Technology,Software
+Dheeraj Pandey,Dheeraj,Pandey,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+David A Ricks,David,Ricks,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Daniel L Rosensweig,Daniel,Rosensweig,ADOBE INC.,M,Keep,11131401200,22634,Technology,Software
+Frances H Arnold,Frances,Arnold,Alphabet Inc.,F,Keep,97266515.94,118899,Technology,Internet/Onl
+Diane B Greene,Diane,Greene,Alphabet Inc.,F,Keep,97266515.94,118899,Technology,Internet/Onl
+John L Hennessy,John,Hennessy,Alphabet Inc.,M,Keep,97266515.94,118899,Technology,Internet/Onl
+Ann Mather,Ann,Mather,Alphabet Inc.,M,Keep,97266515.94,118899,Technology,Internet/Onl
+Alan R Mulally,Alan,Mulally,Alphabet Inc.,M,Keep,97266515.94,118899,Technology,Internet/Onl
+Eric E Schmidt,Eric,Schmidt,Alphabet Inc.,M,Keep,97266515.94,118899,Technology,Internet/Onl
+Robin L Washington,Robin,Washington,Alphabet Inc.,M,Keep,97266515.94,118899,Technology,Internet/Onl
+Craig Conway,Craig,Conway,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Alan Hassenfeld,Alan,Hassenfeld,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Neelie Kroes,Neelie,Kroes,"SALESFORCE.COM, INC.",F,Keep,18595010000,49000,Technology,Software
+Sanford Robertson,Sanford,Robertson,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+John V Roos,John,Roos,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Bernard Tyson,Bernard,Tyson,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Robin Washington,Robin,Washington,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Maynard Webb,Maynard,Webb,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Susan Wojcicki,Susan,Wojcicki,"SALESFORCE.COM, INC.",F,Keep,18595010000,49000,Technology,Software
+and  respectively,And,Respectively,"SALESFORCE.COM, INC.",M,Keep,18595010000,49000,Technology,Software
+Alison Davis,Alison,Davis,FISERV INC,F,Keep,10186880000,44000,Financial,Consumer Fin
+Harry F DiSimone,Harry,Disimone,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Dennis F Lynch,Dennis,Lynch,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Heidi G Miller,Heidi,Miller,FISERV INC,F,Keep,10186880000,44000,Financial,Consumer Fin
+Scott C Nuttall,Scott,Nuttall,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Denis J OLeary,Denis,Oleary,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Doyle R Simons,Doyle,Simons,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Former Directors,Former,Directors,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+John Y Kim,John,Kim,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Glenn M Renwick,Glenn,Renwick,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Kim M Robak,Kim,Robak,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+JD Sherman,Jd,Sherman,FISERV INC,M,Keep,10186880000,44000,Financial,Consumer Fin
+Eve Burton,Eve,Burton,INTUIT INC,F,Keep,7659348000,10600,Technology,Software
+Scott D Cook,Scott,Cook,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Richard L Dalzell,Richard,Dalzell,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Deborah Liu,Deborah,Liu,INTUIT INC,F,Keep,7659348000,10600,Technology,Software
+Dennis D Powell,Dennis,Powell,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Thomas Szkutak,Thomas,Szkutak,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Raul Vazquez,Raul,Vazquez,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Jeff Weiner,Jeff,Weiner,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Grant Date,Grant,Date,INTUIT INC,M,Keep,7659348000,10600,Technology,Software
+Susan L Bostrom,Susan,Bostrom,"ServiceNow, Inc.",F,Keep,3460387860,10371,Technology,Software
+Teresa Briggs,Teresa,Briggs,"ServiceNow, Inc.",F,Keep,3460387860,10371,Technology,Software
+Jonathan C Chadwick,Jonathan,Chadwick,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+Paul E Chamberlain,Paul,Chamberlain,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+Frederic B Luddy,Frederic,Luddy,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+Jeffrey A Miller,Jeffrey,Miller,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+Anita M Sands,Anita,Sands,"ServiceNow, Inc.",F,Keep,3460387860,10371,Technology,Software
+Dennis M Woodside,Dennis,Woodside,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+Tamar O Yehoshua,Tamar,Yehoshua,"ServiceNow, Inc.",F,Keep,3460387860,10371,Technology,Software
+Cash Retainers,Cash,Retainers,"ServiceNow, Inc.",M,Keep,3460387860,10371,Technology,Software
+PROPOSAL NO,Proposal,No,"ServiceNow, Inc.",F,Keep,3460387860,10371,Technology,Software
+Anthony Bates,Anthony,Bates,"VMWARE, INC.",M,Keep,12820050000,31000,Technology,Software
+Marianne Brown,Marianne,Brown,"VMWARE, INC.",F,Keep,12820050000,31000,Technology,Software
+Donald Carty,Donald,Carty,"VMWARE, INC.",M,Keep,12820050000,31000,Technology,Software
+Michael Dell,Michael,Dell,"VMWARE, INC.",M,Keep,12820050000,31000,Technology,Software
+Egon Durban,Egon,Durban,"VMWARE, INC.",M,Keep,12820050000,31000,Technology,Software
+Karen Dykstra,Karen,Dykstra,"VMWARE, INC.",F,Keep,12820050000,31000,Technology,Software
+Paul Sagan,Paul,Sagan,"VMWARE, INC.",M,Keep,12820050000,31000,Technology,Software
+Pamela Craig,Pamela,Craig,AKAMAI TECHNOLOGIES INC,F,Keep,2893642120,7724,Technology,Internet/Onl
+Monte Ford,Monte,Ford,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Jill Greenthal,Jill,Greenthal,AKAMAI TECHNOLOGIES INC,F,Keep,2893642120,7724,Technology,Internet/Onl
+Daniel Hesse,Daniel,Hesse,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Tom Killalea,Tom,Killalea,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Jonathan Miller,Jonathan,Miller,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Madhu Ranganathan,Madhu,Ranganathan,AKAMAI TECHNOLOGIES INC,F,Keep,2893642120,7724,Technology,Internet/Onl
+Paul Sagan,Paul,Sagan,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Fred Salerno,Fred,Salerno,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Naomi Seligman,Naomi,Seligman,AKAMAI TECHNOLOGIES INC,F,Keep,2893642120,7724,Technology,Internet/Onl
+Bernardus Verwaayen,Bernardus,Verwaayen,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Bill Wagner,Bill,Wagner,AKAMAI TECHNOLOGIES INC,M,Keep,2893642120,7724,Technology,Internet/Onl
+Sara Baack,Sara,Baack,SPLUNK INC,F,Keep,3267952000,5800,Technology,Software
+Mark Carges,Mark,Carges,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+John Connors,John,Connors,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+Patricia Morrison,Patricia,Morrison,SPLUNK INC,F,Keep,3267952000,5800,Technology,Software
+Thomas Neustaetter,Thomas,Neustaetter,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+Stephen Newberry,Stephen,Newberry,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+Graham Smith,Graham,Smith,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+Elisa Steele,Elisa,Steele,SPLUNK INC,F,Keep,3267952000,5800,Technology,Software
+Godfrey Sullivan,Godfrey,Sullivan,SPLUNK INC,M,Keep,3267952000,5800,Technology,Software
+Sri Viswanath,Sri,Viswanath,SPLUNK INC,F,Keep,3267952000,5800,Technology,Software
+Sanjeev K Bansal,Sanjeev,Bansal,CVENT INC,M,Keep,640000000,4000,Technology,Software
+Tony Florence,Tony,Florence,CVENT INC,M,Keep,640000000,4000,Technology,Software
+Jeffrey Lieberman,Jeffrey,Lieberman,CVENT INC,M,Keep,640000000,4000,Technology,Software
+Kevin T Parker,Kevin,Parker,CVENT INC,M,Keep,640000000,4000,Technology,Software
+Timothy C Barabe,Timothy,Barabe,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Mark Carges,Mark,Carges,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Paul E Chamberlain,Paul,Chamberlain,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Gordon Ritter,Gordon,Ritter,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Paul Sekhri,Paul,Sekhri,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Matthew J Wallach,Matthew,Wallach,VEEVA SYSTEMS INC,M,Keep,1100000000,3501,Technology,Software
+Dana Evan,Dana,Evan,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+Jonathan Feiber,Jonathan,Feiber,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+Kristen Gil,Kristen,Gil,PROOFPOINT INC,F,Keep,888175280,3368,Technology,Software
+Kevin Harvey,Kevin,Harvey,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+Michael Johnson,Michael,Johnson,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+Peter Leav,Peter,Leav,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+Leyla Seka,Leyla,Seka,PROOFPOINT INC,F,Keep,888175280,3368,Technology,Software
+Richard Wallace,Richard,Wallace,PROOFPOINT INC,M,Keep,888175280,3368,Technology,Software
+PROPOSAL NO,Proposal,No,PROOFPOINT INC,F,Keep,888175280,3368,Technology,Software
+Sohaib Abbasi,Sohaib,Abbasi,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+Hope Cochran,Hope,Cochran,"NEW RELIC, INC.",F,Keep,599514230,2131,Technology,Software
+Peter Fenton,Peter,Fenton,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+Adam Messinger,Adam,Messinger,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+Dan Scholnick,Dan,Scholnick,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+James Tolonen,James,Tolonen,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+were canceled,Were,Canceled,"NEW RELIC, INC.",M,Keep,599514230,2131,Technology,Software
+Shellye Archambeau,Shellye,Archambeau,"Okta, Inc.",F,Keep,586076080,2248,Technology,Internet/Online
+Patrick Grady,Patrick,Grady,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Ben Horowitz,Ben,Horowitz,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Michael Kourey,Michael,Kourey,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Rebecca Saeger,Rebecca,Saeger,"Okta, Inc.",F,Keep,586076080,2248,Technology,Internet/Online
+Michael Stankey,Michael,Stankey,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Michelle Wilson,Michelle,Wilson,"Okta, Inc.",F,Keep,586076080,2248,Technology,Internet/Online
+Fee Category,Fee,Category,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Audit Fees,Audit,Fees,"Okta, Inc.",M,Keep,586076080,2248,Technology,Internet/Online
+Richard Dalzell,Richard,Dalzell,TWILIO INC,M,Keep,1134460600,2905,Technology,Software
+Byron Deeter,Byron,Deeter,TWILIO INC,M,Keep,1134460600,2905,Technology,Software
+Elena Donio,Elena,Donio,TWILIO INC,F,Keep,1134460600,2905,Technology,Software
+Donna Dubinsky,Donna,Dubinsky,TWILIO INC,F,Keep,1134460600,2905,Technology,Software
+Jeffrey Epstein,Jeffrey,Epstein,TWILIO INC,M,Keep,1134460600,2905,Technology,Software
+Jeffrey Immelt,Jeffrey,Immelt,TWILIO INC,M,Keep,1134460600,2905,Technology,Software
+Erika Rottenberg,Erika,Rottenberg,TWILIO INC,F,Keep,1134460600,2905,Technology,Software
+in thousands,In,Thousands,TWILIO INC,F,Keep,1134460600,2905,Technology,Software
+Audit Fees,Audit,Fees,TWILIO INC,M,Keep,1134460600,2905,Technology,Software
+Geoffrey T Barker,Geoffrey,Barker,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+Brent Frei,Brent,Frei,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+Elena Gomez,Elena,Gomez,SMARTSHEET INC,F,Keep,358602160,1588,Technology,Internet/Online
+Michael Gregoire,Michael,Gregoire,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+Ryan Hinkle,Ryan,Hinkle,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+Matthew McIlwain,Matthew,Mcilwain,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+James N White,James,White,SMARTSHEET INC,M,Keep,358602160,1588,Technology,Internet/Online
+Magdalena Yesil,Magdalena,Yesil,SMARTSHEET INC,F,Keep,358602160,1588,Technology,Internet/Online
+Peter Fenton,Peter,Fenton,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Kenneth A Goldman,Kenneth,Goldman,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Timothy Haley,Timothy,Haley,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Jason Pressman,Jason,Pressman,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Michelangelo Volpi,Michelangelo,Volpi,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Magdalena Yesil,Magdalena,Yesil,ZUORA INC,F,Keep,314860410,1249,Technology,Internet/Onl
+PROPOSAL NO,Proposal,No,ZUORA INC,F,Keep,314860410,1249,Technology,Internet/Onl
+Audit fees,Audit,Fees,ZUORA INC,M,Keep,314860410,1249,Technology,Internet/Onl
+Jonathan Chadwick,Jonathan,Chadwick,Elastic N.V.,M,Keep,372306460,1343,Technology,Software
+Peter Fenton,Peter,Fenton,Elastic N.V.,M,Keep,372306460,1343,Technology,Software
+Alison Gleeson,Alison,Gleeson,Elastic N.V.,F,Keep,372306460,1343,Technology,Software
+Caryn Marooney,Caryn,Marooney,Elastic N.V.,F,Keep,372306460,1343,Technology,Software
+Chetan Puttagunta,Chetan,Puttagunta,Elastic N.V.,M,Keep,372306460,1343,Technology,Software
+Steven Schuurman,Steven,Schuurman,Elastic N.V.,M,Keep,372306460,1343,Technology,Software
+Michelangelo Volpi,Michelangelo,Volpi,Elastic N.V.,M,Keep,372306460,1343,Technology,Software
+William G Bock,William,Bock,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Heidi M Melin,Heidi,Melin,"Sailpoint Technologies Holdings, Inc.",F,Keep,247020000,1000,Technology,Software
+Tracey E Newell,Tracey,Newell,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+James M Pflaging,James,Pflaging,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Michael J Sullivan,Michael,Sullivan,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Mark McClain,Mark,Mcclain,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Jason Ream,Jason,Ream,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Howard Greenfield,Howard,Greenfield,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Andrew Kahl,Andrew,Kahl,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Cam McMartin,Cam,Mcmartin,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Matt Mills,Matt,Mills,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Other  Stockholders,Other,Stockholders,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+BlackRock Inc,Blackrock,Inc,"Sailpoint Technologies Holdings, Inc.",M,Keep,247020000,1000,Technology,Software
+Jason Babcoke,Jason,Babcoke,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+John Brennan,John,Brennan,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+William Griffith,William,Griffith,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+Owen Ryan,Owen,Ryan,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+Graham Smith,Graham,Smith,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+Kevin Thompson,Kevin,Thompson,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+Thomas Unterman,Thomas,Unterman,"BLACKLINE, INC.",M,Keep,288975050,1055,Technology,Software
+Mika Yamamoto,Mika,Yamamoto,"BLACKLINE, INC.",F,Keep,288975050,1055,Technology,Software
+Sandra E Bergeron,Sandra,Bergeron,"QUALYS, INC",F,Keep,321605500,1289,Technology,Software
+Jeffrey P Hank,Jeffrey,Hank,"QUALYS, INC",M,Keep,321605500,1289,Technology,Software
+Wendy M Pfeiffer,Wendy,Pfeiffer,"QUALYS, INC",F,Keep,321605500,1289,Technology,Software
+Kristi M Rogers,Kristi,Rogers,"QUALYS, INC",F,Keep,321605500,1289,Technology,Software
+Patricia Hatter,Patricia,Hatter,"QUALYS, INC",F,Keep,321605500,1289,Technology,Software
+Jason Ream,Jason,Ream,"QUALYS, INC",M,Keep,321605500,1289,Technology,Software
+Chairperson  Retainer,Chairperson,Retainer,"QUALYS, INC",M,Keep,321605500,1289,Technology,Software
+Richard DAmore,Richard,Damore,"EVERBRIDGE, INC.",M,Keep,200881200,948,Technology,Software
+Alison Dean,Alison,Dean,"EVERBRIDGE, INC.",F,Keep,200881200,948,Technology,Software
+Bruns Grayson,Bruns,Grayson,"EVERBRIDGE, INC.",M,Keep,200881200,948,Technology,Software
+Kent Mathy,Kent,Mathy,"EVERBRIDGE, INC.",M,Keep,200881200,948,Technology,Software
+Simon Paris,Simon,Paris,"EVERBRIDGE, INC.",M,Keep,200881200,948,Technology,Software
+Sharon Rowlands,Sharon,Rowlands,"EVERBRIDGE, INC.",F,Keep,200881200,948,Technology,Software
+Richard T Burke,Richard,Burke,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Timothy P Flynn,Timothy,Flynn,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Stephen J Hemsley,Stephen,Hemsley,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Michele J Hooper,Michele,Hooper,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Glenn M Renwick,Glenn,Renwick,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Corporate  Governance,Corporate,Governance,UNITEDHEALTH GROUP INC,F,Keep,2.42E+11,325000,Financial,Life Insuran
+Annual  Meeting,Annual,Meeting,UNITEDHEALTH GROUP INC,F,Keep,2.42E+11,325000,Financial,Life Insuran
+Other  Information,Other,Information,UNITEDHEALTH GROUP INC,M,Keep,2.42E+11,325000,Financial,Life Insuran
+Dominic J Caruso,Dominic,Caruso,MCKESSON CORP,M,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Donald R Knauss,Donald,Knauss,MCKESSON CORP,M,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Marie L Knowles,Marie,Knowles,MCKESSON CORP,F,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Bradley E Lerman,Bradley,Lerman,MCKESSON CORP,M,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Maria Martinez,Maria,Martinez,MCKESSON CORP,F,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Edward A Mueller,Edward,Mueller,MCKESSON CORP,M,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Susan R Salka,Susan,Salka,MCKESSON CORP,F,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Kenneth E Washington,Kenneth,Washington,MCKESSON CORP,M,Keep,2.31E+11,80000,Healthcare,Drug Retail
+Fernando Aguirre,Fernando,Aguirre,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Mark T Bertolini,Mark,Bertolini,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Richard M Bracken,Richard,Bracken,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Alecia A DeCoudreaux,Alecia,Decoudreaux,CVS HEALTH Corp,F,Keep,2.57E+11,290000,Healthcare,Drug Retail
+NancyAnn M DeParle,Nancyann,Deparle,CVS HEALTH Corp,F,Keep,2.57E+11,290000,Healthcare,Drug Retail
+David W Dorman,David,Dorman,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Roger N Farah,Roger,Farah,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Anne M Finucane,Anne,Finucane,CVS HEALTH Corp,F,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Edward J Ludwig,Edward,Ludwig,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+JeanPierre Millon,Jeanpierre,Millon,CVS HEALTH Corp,F,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Mary L Schapiro,Mary,Schapiro,CVS HEALTH Corp,F,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Richard J Swift,Richard,Swift,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+William C Weldon,William,Weldon,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Tony L White,Tony,White,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+cvsdefaxxjpg cvsdefaxxjpg,Cvsdefaxxjpg,Cvsdefaxxjpg,CVS HEALTH Corp,M,Keep,2.57E+11,290000,Healthcare,Drug Retail
+Julie A Hill,Julie,Hill,"Anthem, Inc.",F,Keep,1.04E+11,70600,Financial,Life Insuran
+Bahija Jallal,Bahija,Jallal,"Anthem, Inc.",M,Keep,1.04E+11,70600,Financial,Life Insuran
+Antonio F Neri,Antonio,Neri,"Anthem, Inc.",M,Keep,1.04E+11,70600,Financial,Life Insuran
+Ramiro G Peru,Ramiro,Peru,"Anthem, Inc.",M,Keep,1.04E+11,70600,Financial,Life Insuran
+Ryan M Schneider,Ryan,Schneider,"Anthem, Inc.",M,Keep,1.04E+11,70600,Financial,Life Insuran
+Elizabeth E Tallett,Elizabeth,Tallett,"Anthem, Inc.",F,Keep,1.04E+11,70600,Financial,Life Insuran
+Gail K Boudreaux,Gail,Boudreaux,"Anthem, Inc.",F,Keep,1.04E+11,70600,Financial,Life Insuran
+Orlando Ayala,Orlando,Ayala,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+Jessica L Blume,Jessica,Blume,CENTENE CORP,F,Keep,74655400000,56600,Healthcare,Healthcare P
+Robert K Ditmore,Robert,Ditmore,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+Frederick H Eppinger,Frederick,Eppinger,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+Richard A Gephardt,Richard,Gephardt,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+John R Roberts,John,Roberts,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+Lori J Robinson,Lori,Robinson,CENTENE CORP,F,Keep,74655400000,56600,Healthcare,Healthcare P
+David L Steward,David,Steward,CENTENE CORP,M,Keep,74655400000,56600,Healthcare,Healthcare P
+Tommy G Thompson,Tommy,Thompson,CENTENE CORP,F,Keep,74655400000,56600,Healthcare,Healthcare P
+Centene Corporation,Centene,Corporation,CENTENE CORP,F,Keep,74655400000,56600,Healthcare,Healthcare P
+Peggy Alford,Peggy,Alford,Facebook Inc,F,Keep,70693766000,44942,Technology,Internet/Onl
+Marc L Andreessen,Marc,Andreessen,Facebook Inc,F,Keep,70693766000,44942,Technology,Internet/Onl
+Erskine B Bowles,Erskine,Bowles,Facebook Inc,M,Keep,70693766000,44942,Technology,Internet/Onl
+Kenneth I Chenault,Kenneth,Chenault,Facebook Inc,M,Keep,70693766000,44942,Technology,Internet/Onl
+Susan D DesmondHellmann,Susan,Desmondhellmann,Facebook Inc,F,Keep,70693766000,44942,Technology,Internet/Onl
+Reed Hastings,Reed,Hastings,Facebook Inc,M,Keep,70693766000,44942,Technology,Internet/Onl
+Peter A Thiel,Peter,Thiel,Facebook Inc,M,Keep,70693766000,44942,Technology,Internet/Onl
+Jeffrey D Zients,Jeffrey,Zients,Facebook Inc,M,Keep,70693766000,44942,Technology,Internet/Onl
+Gregory E Abel,Gregory,Abel,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Alexandre Behring,Alexandre,Behring,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Joao M CastroNeves,Joao,Castroneves,Kraft Heinz Co,F,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+John T Cahill,John,Cahill,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Feroz Dewan,Feroz,Dewan,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Jeanne P Jackson,Jeanne,Jackson,Kraft Heinz Co,F,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Timothy Kenesey,Timothy,Kenesey,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+John C Pope,John,Pope,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+George Zoghbi,George,Zoghbi,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+NameVested StockOptions,Namevested,Stockoptions,Kraft Heinz Co,M,Keep,24976850000,37000,Consumer Goods,Food & Beverage
+Alicia BolerDavis,Alicia,Bolerdavis,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+David M Cordani,David,Cordani,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Maria Henry,Maria,Henry,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Elizabeth Lempres,Elizabeth,Lempres,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Heidi G Miller,Heidi,Miller,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Diane Neal,Diane,Neal,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Steve Odland,Steve,Odland,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Maria Sastre,Maria,Sastre,GENERAL MILLS INC,F,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Eric D Sprunk,Eric,Sprunk,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Jorge Uribe,Jorge,Uribe,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Richard C Allendorf,Richard,Allendorf,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Kofi A Bruce,Kofi,Bruce,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+John R Church,John,Church,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Jeffrey L Harmening,Jeffrey,Harmening,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Donal L Mulligan,Donal,Mulligan,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Jonathon J Nudi,Jonathon,Nudi,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+BlackRock Inc,Blackrock,Inc,GENERAL MILLS INC,M,Keep,14519400000,35000,Consumer Goods,Food & Beverage
+Goldner Brian,Goldner,Brian,ViacomCBS Inc.,M,Keep,27804410000,23990,Media/Entertainment,Broadcasting
+Schuman Susan,Schuman,Susan,ViacomCBS Inc.,M,Keep,27804410000,23990,Media/Entertainment,Broadcasting
+Seligman Nicole,Seligman,Nicole,ViacomCBS Inc.,F,Keep,27804410000,23990,Media/Entertainment,Broadcasting
+Zelnick Strauss,Zelnick,Strauss,ViacomCBS Inc.,M,Keep,27804410000,23990,Media/Entertainment,Broadcasting
+Robyn Denholm,Robyn,Denholm,"Tesla, Inc.",F,Keep,24578000000,48016,Automotive,Automobiles
+Ira Ehrenpreis,Ira,Ehrenpreis,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+Lawrence J Ellison,Lawrence,Ellison,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+Antonio Gracias,Antonio,Gracias,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+Stephen Jurvetson,Stephen,Jurvetson,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+James Murdoch,James,Murdoch,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+Kimbal Musk,Kimbal,Musk,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+Kathleen WilsonThompson,Kathleen,Wilsonthompson,"Tesla, Inc.",F,Keep,24578000000,48016,Automotive,Automobiles
+Brad Buss,Brad,Buss,"Tesla, Inc.",M,Keep,24578000000,48016,Automotive,Automobiles
+John P Bilbrey,John,Bilbrey,COLGATE PALMOLIVE CO,M,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+John T Cahill,John,Cahill,COLGATE PALMOLIVE CO,M,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Lisa M Edwards,Lisa,Edwards,COLGATE PALMOLIVE CO,F,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Helene D Gayle,Helene,Gayle,COLGATE PALMOLIVE CO,F,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Ellen M Hancock,Ellen,Hancock,COLGATE PALMOLIVE CO,F,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Lorrie M Norrington,Lorrie,Norrington,COLGATE PALMOLIVE CO,F,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Michael B Polk,Michael,Polk,COLGATE PALMOLIVE CO,M,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Stephen I Sadove,Stephen,Sadove,COLGATE PALMOLIVE CO,M,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Base  Salary,Base,Salary,COLGATE PALMOLIVE CO,M,Keep,15690000000,34300,Consumer Goods,Personal Care Products/Appliances
+Chase Careya,Chase,Careya,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Anne Dias,Anne,Dias,Fox Corp,F,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Roland A Hernandez,Roland,Hernandez,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Jacques Nasser,Jacques,Nasser,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Paul D Ryan,Paul,Ryan,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Chase Carey,Chase,Carey,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Lachlan K Murdoch,Lachlan,Murdoch,Fox Corp,F,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+John P Nallen,John,Nallen,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Viet D Dinh,Viet,Dinh,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Steven Tomsic,Steven,Tomsic,Fox Corp,M,Keep,12300000000,9000,Media/Entertainment,Broadcasting
+Gordon Bethune,Gordon,Bethune,SPRINT Corp,M,Keep,36300000000,28500,Telecommunications,Wireless & Wireline Communication
+Patrick Doyle,Patrick,Doyle,SPRINT Corp,M,Keep,36300000000,28500,Telecommunications,Wireless & Wireline Communication
+Ronald Fisher,Ronald,Fisher,SPRINT Corp,M,Keep,36300000000,28500,Telecommunications,Wireless & Wireline Communication
+Julius Genachowski,Julius,Genachowski,SPRINT Corp,M,Keep,36300000000,28500,Telecommunications,Wireless & Wireline Communication
+Masayoshi Son,Masayoshi,Son,SPRINT Corp,M,Keep,36300000000,28500,Telecommunications,Wireless & Wireline Communication
+Srikant M Datar,Srikant,Datar,T-Mobile US,F,Keep,44998000000,53000,Telecommunications,Wireless & Wireline Communication
+Lawrence H Guffey,Lawrence,Guffey,T-Mobile US,M,Keep,44998000000,53000,Telecommunications,Wireless & Wireline Communication
+Olaf Swantee,Olaf,Swantee,T-Mobile US,F,Keep,44998000000,53000,Telecommunications,Wireless & Wireline Communication
+Teresa A Taylor,Teresa,Taylor,T-Mobile US,F,Keep,44998000000,53000,Telecommunications,Wireless & Wireline Communication
+Kelvin R Westbrook,Kelvin,Westbrook,T-Mobile US,M,Keep,44998000000,53000,Telecommunications,Wireless & Wireline Communication
+Vance D Coffman,Vance,Coffman,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Alan C Heuberger,Alan,Heuberger,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Dipak C Jain,Dipak,Jain,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Michael O Johanns,Michael,Johanns,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Clayton M Jones,Clayton,Jones,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Gregory R Page,Gregory,Page,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Sherry M Smith,Sherry,Smith,DEERE & CO,F,Keep,39260000000,74412,Automotive,Mobile Machinery
+Dmitri L Stockton,Dmitri,Stockton,DEERE & CO,M,Keep,39260000000,74412,Automotive,Mobile Machinery
+Sheila G Talton,Sheila,Talton,DEERE & CO,F,Keep,39260000000,74412,Automotive,Mobile Machinery
